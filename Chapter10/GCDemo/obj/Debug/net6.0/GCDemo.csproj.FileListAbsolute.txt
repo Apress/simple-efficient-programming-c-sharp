@@ -1,0 +1,16 @@
+E:\MyPrograms\MemoryManagementInCSharp\GCDemo\bin\Debug\net6.0\GCDemo.exe
+E:\MyPrograms\MemoryManagementInCSharp\GCDemo\bin\Debug\net6.0\GCDemo.deps.json
+E:\MyPrograms\MemoryManagementInCSharp\GCDemo\bin\Debug\net6.0\GCDemo.runtimeconfig.json
+E:\MyPrograms\MemoryManagementInCSharp\GCDemo\bin\Debug\net6.0\GCDemo.runtimeconfig.dev.json
+E:\MyPrograms\MemoryManagementInCSharp\GCDemo\bin\Debug\net6.0\GCDemo.dll
+E:\MyPrograms\MemoryManagementInCSharp\GCDemo\bin\Debug\net6.0\ref\GCDemo.dll
+E:\MyPrograms\MemoryManagementInCSharp\GCDemo\bin\Debug\net6.0\GCDemo.pdb
+E:\MyPrograms\MemoryManagementInCSharp\GCDemo\obj\Debug\net6.0\GCDemo.csprojAssemblyReference.cache
+E:\MyPrograms\MemoryManagementInCSharp\GCDemo\obj\Debug\net6.0\GCDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\MemoryManagementInCSharp\GCDemo\obj\Debug\net6.0\GCDemo.AssemblyInfoInputs.cache
+E:\MyPrograms\MemoryManagementInCSharp\GCDemo\obj\Debug\net6.0\GCDemo.AssemblyInfo.cs
+E:\MyPrograms\MemoryManagementInCSharp\GCDemo\obj\Debug\net6.0\GCDemo.csproj.CoreCompileInputs.cache
+E:\MyPrograms\MemoryManagementInCSharp\GCDemo\obj\Debug\net6.0\GCDemo.dll
+E:\MyPrograms\MemoryManagementInCSharp\GCDemo\obj\Debug\net6.0\ref\GCDemo.dll
+E:\MyPrograms\MemoryManagementInCSharp\GCDemo\obj\Debug\net6.0\GCDemo.pdb
+E:\MyPrograms\MemoryManagementInCSharp\GCDemo\obj\Debug\net6.0\GCDemo.genruntimeconfig.cache

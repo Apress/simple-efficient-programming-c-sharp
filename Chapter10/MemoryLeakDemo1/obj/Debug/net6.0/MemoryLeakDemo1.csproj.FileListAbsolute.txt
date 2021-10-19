@@ -1,0 +1,16 @@
+E:\MyPrograms\MemoryManagementInCSharp\MemoryLeakDemo1\bin\Debug\net6.0\MemoryLeakDemo1.exe
+E:\MyPrograms\MemoryManagementInCSharp\MemoryLeakDemo1\bin\Debug\net6.0\MemoryLeakDemo1.deps.json
+E:\MyPrograms\MemoryManagementInCSharp\MemoryLeakDemo1\bin\Debug\net6.0\MemoryLeakDemo1.runtimeconfig.json
+E:\MyPrograms\MemoryManagementInCSharp\MemoryLeakDemo1\bin\Debug\net6.0\MemoryLeakDemo1.runtimeconfig.dev.json
+E:\MyPrograms\MemoryManagementInCSharp\MemoryLeakDemo1\bin\Debug\net6.0\MemoryLeakDemo1.dll
+E:\MyPrograms\MemoryManagementInCSharp\MemoryLeakDemo1\bin\Debug\net6.0\ref\MemoryLeakDemo1.dll
+E:\MyPrograms\MemoryManagementInCSharp\MemoryLeakDemo1\bin\Debug\net6.0\MemoryLeakDemo1.pdb
+E:\MyPrograms\MemoryManagementInCSharp\MemoryLeakDemo1\obj\Debug\net6.0\MemoryLeakDemo1.csprojAssemblyReference.cache
+E:\MyPrograms\MemoryManagementInCSharp\MemoryLeakDemo1\obj\Debug\net6.0\MemoryLeakDemo1.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\MemoryManagementInCSharp\MemoryLeakDemo1\obj\Debug\net6.0\MemoryLeakDemo1.AssemblyInfoInputs.cache
+E:\MyPrograms\MemoryManagementInCSharp\MemoryLeakDemo1\obj\Debug\net6.0\MemoryLeakDemo1.AssemblyInfo.cs
+E:\MyPrograms\MemoryManagementInCSharp\MemoryLeakDemo1\obj\Debug\net6.0\MemoryLeakDemo1.csproj.CoreCompileInputs.cache
+E:\MyPrograms\MemoryManagementInCSharp\MemoryLeakDemo1\obj\Debug\net6.0\MemoryLeakDemo1.dll
+E:\MyPrograms\MemoryManagementInCSharp\MemoryLeakDemo1\obj\Debug\net6.0\ref\MemoryLeakDemo1.dll
+E:\MyPrograms\MemoryManagementInCSharp\MemoryLeakDemo1\obj\Debug\net6.0\MemoryLeakDemo1.pdb
+E:\MyPrograms\MemoryManagementInCSharp\MemoryLeakDemo1\obj\Debug\net6.0\MemoryLeakDemo1.genruntimeconfig.cache

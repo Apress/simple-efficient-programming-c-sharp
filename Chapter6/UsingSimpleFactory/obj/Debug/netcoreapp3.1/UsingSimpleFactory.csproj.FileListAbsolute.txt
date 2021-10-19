@@ -1,0 +1,24 @@
+C:\Users\Vaskaran Sarcar\source\repos\RealCoderSolution\UsingSimpleFactory\bin\Debug\netcoreapp3.1\UsingSimpleFactory.exe
+C:\Users\Vaskaran Sarcar\source\repos\RealCoderSolution\UsingSimpleFactory\bin\Debug\netcoreapp3.1\UsingSimpleFactory.deps.json
+C:\Users\Vaskaran Sarcar\source\repos\RealCoderSolution\UsingSimpleFactory\bin\Debug\netcoreapp3.1\UsingSimpleFactory.runtimeconfig.json
+C:\Users\Vaskaran Sarcar\source\repos\RealCoderSolution\UsingSimpleFactory\bin\Debug\netcoreapp3.1\UsingSimpleFactory.runtimeconfig.dev.json
+C:\Users\Vaskaran Sarcar\source\repos\RealCoderSolution\UsingSimpleFactory\bin\Debug\netcoreapp3.1\UsingSimpleFactory.dll
+C:\Users\Vaskaran Sarcar\source\repos\RealCoderSolution\UsingSimpleFactory\bin\Debug\netcoreapp3.1\UsingSimpleFactory.pdb
+C:\Users\Vaskaran Sarcar\source\repos\RealCoderSolution\UsingSimpleFactory\obj\Debug\netcoreapp3.1\UsingSimpleFactory.AssemblyInfoInputs.cache
+C:\Users\Vaskaran Sarcar\source\repos\RealCoderSolution\UsingSimpleFactory\obj\Debug\netcoreapp3.1\UsingSimpleFactory.AssemblyInfo.cs
+C:\Users\Vaskaran Sarcar\source\repos\RealCoderSolution\UsingSimpleFactory\obj\Debug\netcoreapp3.1\UsingSimpleFactory.csproj.CoreCompileInputs.cache
+C:\Users\Vaskaran Sarcar\source\repos\RealCoderSolution\UsingSimpleFactory\obj\Debug\netcoreapp3.1\UsingSimpleFactory.dll
+C:\Users\Vaskaran Sarcar\source\repos\RealCoderSolution\UsingSimpleFactory\obj\Debug\netcoreapp3.1\UsingSimpleFactory.pdb
+C:\Users\Vaskaran Sarcar\source\repos\RealCoderSolution\UsingSimpleFactory\obj\Debug\netcoreapp3.1\UsingSimpleFactory.genruntimeconfig.cache
+E:\MyPrograms\RealCoderSolution\UsingSimpleFactory\bin\Debug\netcoreapp3.1\UsingSimpleFactory.exe
+E:\MyPrograms\RealCoderSolution\UsingSimpleFactory\bin\Debug\netcoreapp3.1\UsingSimpleFactory.deps.json
+E:\MyPrograms\RealCoderSolution\UsingSimpleFactory\bin\Debug\netcoreapp3.1\UsingSimpleFactory.runtimeconfig.json
+E:\MyPrograms\RealCoderSolution\UsingSimpleFactory\bin\Debug\netcoreapp3.1\UsingSimpleFactory.runtimeconfig.dev.json
+E:\MyPrograms\RealCoderSolution\UsingSimpleFactory\bin\Debug\netcoreapp3.1\UsingSimpleFactory.dll
+E:\MyPrograms\RealCoderSolution\UsingSimpleFactory\bin\Debug\netcoreapp3.1\UsingSimpleFactory.pdb
+E:\MyPrograms\RealCoderSolution\UsingSimpleFactory\obj\Debug\netcoreapp3.1\UsingSimpleFactory.AssemblyInfoInputs.cache
+E:\MyPrograms\RealCoderSolution\UsingSimpleFactory\obj\Debug\netcoreapp3.1\UsingSimpleFactory.AssemblyInfo.cs
+E:\MyPrograms\RealCoderSolution\UsingSimpleFactory\obj\Debug\netcoreapp3.1\UsingSimpleFactory.csproj.CoreCompileInputs.cache
+E:\MyPrograms\RealCoderSolution\UsingSimpleFactory\obj\Debug\netcoreapp3.1\UsingSimpleFactory.dll
+E:\MyPrograms\RealCoderSolution\UsingSimpleFactory\obj\Debug\netcoreapp3.1\UsingSimpleFactory.pdb
+E:\MyPrograms\RealCoderSolution\UsingSimpleFactory\obj\Debug\netcoreapp3.1\UsingSimpleFactory.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\MyPrograms\RealCoderSolution\UsingHook\bin\Debug\netcoreapp3.1\UsingHook.exe
+E:\MyPrograms\RealCoderSolution\UsingHook\bin\Debug\netcoreapp3.1\UsingHook.deps.json
+E:\MyPrograms\RealCoderSolution\UsingHook\bin\Debug\netcoreapp3.1\UsingHook.runtimeconfig.json
+E:\MyPrograms\RealCoderSolution\UsingHook\bin\Debug\netcoreapp3.1\UsingHook.runtimeconfig.dev.json
+E:\MyPrograms\RealCoderSolution\UsingHook\bin\Debug\netcoreapp3.1\UsingHook.dll
+E:\MyPrograms\RealCoderSolution\UsingHook\bin\Debug\netcoreapp3.1\UsingHook.pdb
+E:\MyPrograms\RealCoderSolution\UsingHook\obj\Debug\netcoreapp3.1\UsingHook.AssemblyInfoInputs.cache
+E:\MyPrograms\RealCoderSolution\UsingHook\obj\Debug\netcoreapp3.1\UsingHook.AssemblyInfo.cs
+E:\MyPrograms\RealCoderSolution\UsingHook\obj\Debug\netcoreapp3.1\UsingHook.csproj.CoreCompileInputs.cache
+E:\MyPrograms\RealCoderSolution\UsingHook\obj\Debug\netcoreapp3.1\UsingHook.dll
+E:\MyPrograms\RealCoderSolution\UsingHook\obj\Debug\netcoreapp3.1\UsingHook.pdb
+E:\MyPrograms\RealCoderSolution\UsingHook\obj\Debug\netcoreapp3.1\UsingHook.genruntimeconfig.cache
+E:\MyPrograms\RealCoderSolution\UsingHook\obj\Debug\netcoreapp3.1\UsingHook.csprojAssemblyReference.cache

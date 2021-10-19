@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TodoCommentsExample/1.0.0": {
+        "runtime": {
+          "TodoCommentsExample.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TodoCommentsExample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

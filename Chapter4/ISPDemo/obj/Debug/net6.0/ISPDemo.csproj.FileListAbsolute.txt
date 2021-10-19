@@ -1,0 +1,16 @@
+E:\MyPrograms\RealCoderSolution\ISPDemo\bin\Debug\net6.0\ISPDemo.exe
+E:\MyPrograms\RealCoderSolution\ISPDemo\bin\Debug\net6.0\ISPDemo.deps.json
+E:\MyPrograms\RealCoderSolution\ISPDemo\bin\Debug\net6.0\ISPDemo.runtimeconfig.json
+E:\MyPrograms\RealCoderSolution\ISPDemo\bin\Debug\net6.0\ISPDemo.runtimeconfig.dev.json
+E:\MyPrograms\RealCoderSolution\ISPDemo\bin\Debug\net6.0\ISPDemo.dll
+E:\MyPrograms\RealCoderSolution\ISPDemo\bin\Debug\net6.0\ref\ISPDemo.dll
+E:\MyPrograms\RealCoderSolution\ISPDemo\bin\Debug\net6.0\ISPDemo.pdb
+E:\MyPrograms\RealCoderSolution\ISPDemo\obj\Debug\net6.0\ISPDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\RealCoderSolution\ISPDemo\obj\Debug\net6.0\ISPDemo.AssemblyInfoInputs.cache
+E:\MyPrograms\RealCoderSolution\ISPDemo\obj\Debug\net6.0\ISPDemo.AssemblyInfo.cs
+E:\MyPrograms\RealCoderSolution\ISPDemo\obj\Debug\net6.0\ISPDemo.csproj.CoreCompileInputs.cache
+E:\MyPrograms\RealCoderSolution\ISPDemo\obj\Debug\net6.0\ISPDemo.dll
+E:\MyPrograms\RealCoderSolution\ISPDemo\obj\Debug\net6.0\ref\ISPDemo.dll
+E:\MyPrograms\RealCoderSolution\ISPDemo\obj\Debug\net6.0\ISPDemo.pdb
+E:\MyPrograms\RealCoderSolution\ISPDemo\obj\Debug\net6.0\ISPDemo.genruntimeconfig.cache
+E:\MyPrograms\RealCoderSolution\ISPDemo\obj\Debug\net6.0\ISPDemo.csprojAssemblyReference.cache

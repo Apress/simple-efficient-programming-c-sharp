@@ -1,0 +1,13 @@
+E:\MyPrograms\RealCoderSolution\DiamondProblem\bin\Debug\netcoreapp3.1\DiamondProblem.exe
+E:\MyPrograms\RealCoderSolution\DiamondProblem\bin\Debug\netcoreapp3.1\DiamondProblem.deps.json
+E:\MyPrograms\RealCoderSolution\DiamondProblem\bin\Debug\netcoreapp3.1\DiamondProblem.runtimeconfig.json
+E:\MyPrograms\RealCoderSolution\DiamondProblem\bin\Debug\netcoreapp3.1\DiamondProblem.runtimeconfig.dev.json
+E:\MyPrograms\RealCoderSolution\DiamondProblem\bin\Debug\netcoreapp3.1\DiamondProblem.dll
+E:\MyPrograms\RealCoderSolution\DiamondProblem\bin\Debug\netcoreapp3.1\DiamondProblem.pdb
+E:\MyPrograms\RealCoderSolution\DiamondProblem\obj\Debug\netcoreapp3.1\DiamondProblem.csprojAssemblyReference.cache
+E:\MyPrograms\RealCoderSolution\DiamondProblem\obj\Debug\netcoreapp3.1\DiamondProblem.AssemblyInfoInputs.cache
+E:\MyPrograms\RealCoderSolution\DiamondProblem\obj\Debug\netcoreapp3.1\DiamondProblem.AssemblyInfo.cs
+E:\MyPrograms\RealCoderSolution\DiamondProblem\obj\Debug\netcoreapp3.1\DiamondProblem.csproj.CoreCompileInputs.cache
+E:\MyPrograms\RealCoderSolution\DiamondProblem\obj\Debug\netcoreapp3.1\DiamondProblem.dll
+E:\MyPrograms\RealCoderSolution\DiamondProblem\obj\Debug\netcoreapp3.1\DiamondProblem.pdb
+E:\MyPrograms\RealCoderSolution\DiamondProblem\obj\Debug\netcoreapp3.1\DiamondProblem.genruntimeconfig.cache

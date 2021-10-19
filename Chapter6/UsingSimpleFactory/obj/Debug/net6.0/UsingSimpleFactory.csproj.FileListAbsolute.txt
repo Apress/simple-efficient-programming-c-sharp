@@ -1,0 +1,16 @@
+E:\MyPrograms\RealCoderSolution\UsingSimpleFactory\bin\Debug\net6.0\UsingSimpleFactory.exe
+E:\MyPrograms\RealCoderSolution\UsingSimpleFactory\bin\Debug\net6.0\UsingSimpleFactory.deps.json
+E:\MyPrograms\RealCoderSolution\UsingSimpleFactory\bin\Debug\net6.0\UsingSimpleFactory.runtimeconfig.json
+E:\MyPrograms\RealCoderSolution\UsingSimpleFactory\bin\Debug\net6.0\UsingSimpleFactory.runtimeconfig.dev.json
+E:\MyPrograms\RealCoderSolution\UsingSimpleFactory\bin\Debug\net6.0\UsingSimpleFactory.dll
+E:\MyPrograms\RealCoderSolution\UsingSimpleFactory\bin\Debug\net6.0\ref\UsingSimpleFactory.dll
+E:\MyPrograms\RealCoderSolution\UsingSimpleFactory\bin\Debug\net6.0\UsingSimpleFactory.pdb
+E:\MyPrograms\RealCoderSolution\UsingSimpleFactory\obj\Debug\net6.0\UsingSimpleFactory.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\RealCoderSolution\UsingSimpleFactory\obj\Debug\net6.0\UsingSimpleFactory.AssemblyInfoInputs.cache
+E:\MyPrograms\RealCoderSolution\UsingSimpleFactory\obj\Debug\net6.0\UsingSimpleFactory.AssemblyInfo.cs
+E:\MyPrograms\RealCoderSolution\UsingSimpleFactory\obj\Debug\net6.0\UsingSimpleFactory.csproj.CoreCompileInputs.cache
+E:\MyPrograms\RealCoderSolution\UsingSimpleFactory\obj\Debug\net6.0\UsingSimpleFactory.dll
+E:\MyPrograms\RealCoderSolution\UsingSimpleFactory\obj\Debug\net6.0\ref\UsingSimpleFactory.dll
+E:\MyPrograms\RealCoderSolution\UsingSimpleFactory\obj\Debug\net6.0\UsingSimpleFactory.pdb
+E:\MyPrograms\RealCoderSolution\UsingSimpleFactory\obj\Debug\net6.0\UsingSimpleFactory.genruntimeconfig.cache
+E:\MyPrograms\RealCoderSolution\UsingSimpleFactory\obj\Debug\net6.0\UsingSimpleFactory.csprojAssemblyReference.cache

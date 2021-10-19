@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DryDemoUsingDll/1.0.0": {
+        "dependencies": {
+          "BasicGameInfo": "1.0.0"
+        },
+        "runtime": {
+          "DryDemoUsingDll.dll": {}
+        }
+      },
+      "BasicGameInfo/1.0.0": {
+        "runtime": {
+          "BasicGameInfo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DryDemoUsingDll/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BasicGameInfo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

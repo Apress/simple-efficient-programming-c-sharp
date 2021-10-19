@@ -1,0 +1,15 @@
+E:\MyPrograms\RealCoderSolution\WithoutLSPDemo\bin\Debug\net6.0\WithoutLSPDemo.exe
+E:\MyPrograms\RealCoderSolution\WithoutLSPDemo\bin\Debug\net6.0\WithoutLSPDemo.deps.json
+E:\MyPrograms\RealCoderSolution\WithoutLSPDemo\bin\Debug\net6.0\WithoutLSPDemo.runtimeconfig.json
+E:\MyPrograms\RealCoderSolution\WithoutLSPDemo\bin\Debug\net6.0\WithoutLSPDemo.runtimeconfig.dev.json
+E:\MyPrograms\RealCoderSolution\WithoutLSPDemo\bin\Debug\net6.0\WithoutLSPDemo.dll
+E:\MyPrograms\RealCoderSolution\WithoutLSPDemo\bin\Debug\net6.0\ref\WithoutLSPDemo.dll
+E:\MyPrograms\RealCoderSolution\WithoutLSPDemo\bin\Debug\net6.0\WithoutLSPDemo.pdb
+E:\MyPrograms\RealCoderSolution\WithoutLSPDemo\obj\Debug\net6.0\WithoutLSPDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\RealCoderSolution\WithoutLSPDemo\obj\Debug\net6.0\WithoutLSPDemo.AssemblyInfoInputs.cache
+E:\MyPrograms\RealCoderSolution\WithoutLSPDemo\obj\Debug\net6.0\WithoutLSPDemo.AssemblyInfo.cs
+E:\MyPrograms\RealCoderSolution\WithoutLSPDemo\obj\Debug\net6.0\WithoutLSPDemo.csproj.CoreCompileInputs.cache
+E:\MyPrograms\RealCoderSolution\WithoutLSPDemo\obj\Debug\net6.0\WithoutLSPDemo.dll
+E:\MyPrograms\RealCoderSolution\WithoutLSPDemo\obj\Debug\net6.0\ref\WithoutLSPDemo.dll
+E:\MyPrograms\RealCoderSolution\WithoutLSPDemo\obj\Debug\net6.0\WithoutLSPDemo.pdb
+E:\MyPrograms\RealCoderSolution\WithoutLSPDemo\obj\Debug\net6.0\WithoutLSPDemo.genruntimeconfig.cache

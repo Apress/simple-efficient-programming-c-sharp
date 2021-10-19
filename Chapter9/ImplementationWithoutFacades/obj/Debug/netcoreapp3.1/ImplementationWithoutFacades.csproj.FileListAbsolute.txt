@@ -1,0 +1,13 @@
+E:\MyPrograms\RealCoderSolution\ImplementationWithoutFacades\bin\Debug\netcoreapp3.1\ImplementationWithoutFacades.exe
+E:\MyPrograms\RealCoderSolution\ImplementationWithoutFacades\bin\Debug\netcoreapp3.1\ImplementationWithoutFacades.deps.json
+E:\MyPrograms\RealCoderSolution\ImplementationWithoutFacades\bin\Debug\netcoreapp3.1\ImplementationWithoutFacades.runtimeconfig.json
+E:\MyPrograms\RealCoderSolution\ImplementationWithoutFacades\bin\Debug\netcoreapp3.1\ImplementationWithoutFacades.runtimeconfig.dev.json
+E:\MyPrograms\RealCoderSolution\ImplementationWithoutFacades\bin\Debug\netcoreapp3.1\ImplementationWithoutFacades.dll
+E:\MyPrograms\RealCoderSolution\ImplementationWithoutFacades\bin\Debug\netcoreapp3.1\ImplementationWithoutFacades.pdb
+E:\MyPrograms\RealCoderSolution\ImplementationWithoutFacades\obj\Debug\netcoreapp3.1\ImplementationWithoutFacades.AssemblyInfoInputs.cache
+E:\MyPrograms\RealCoderSolution\ImplementationWithoutFacades\obj\Debug\netcoreapp3.1\ImplementationWithoutFacades.AssemblyInfo.cs
+E:\MyPrograms\RealCoderSolution\ImplementationWithoutFacades\obj\Debug\netcoreapp3.1\ImplementationWithoutFacades.csproj.CoreCompileInputs.cache
+E:\MyPrograms\RealCoderSolution\ImplementationWithoutFacades\obj\Debug\netcoreapp3.1\ImplementationWithoutFacades.dll
+E:\MyPrograms\RealCoderSolution\ImplementationWithoutFacades\obj\Debug\netcoreapp3.1\ImplementationWithoutFacades.pdb
+E:\MyPrograms\RealCoderSolution\ImplementationWithoutFacades\obj\Debug\netcoreapp3.1\ImplementationWithoutFacades.genruntimeconfig.cache
+E:\MyPrograms\RealCoderSolution\ImplementationWithoutFacades\obj\Debug\netcoreapp3.1\ImplementationWithoutFacades.csprojAssemblyReference.cache

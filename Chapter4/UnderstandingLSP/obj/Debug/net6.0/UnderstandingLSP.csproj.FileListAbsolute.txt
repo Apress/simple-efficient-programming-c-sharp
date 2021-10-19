@@ -1,0 +1,16 @@
+E:\MyPrograms\RealCoderSolution\UnderstandingLSP\bin\Debug\net6.0\UnderstandingLSP.exe
+E:\MyPrograms\RealCoderSolution\UnderstandingLSP\bin\Debug\net6.0\UnderstandingLSP.deps.json
+E:\MyPrograms\RealCoderSolution\UnderstandingLSP\bin\Debug\net6.0\UnderstandingLSP.runtimeconfig.json
+E:\MyPrograms\RealCoderSolution\UnderstandingLSP\bin\Debug\net6.0\UnderstandingLSP.runtimeconfig.dev.json
+E:\MyPrograms\RealCoderSolution\UnderstandingLSP\bin\Debug\net6.0\UnderstandingLSP.dll
+E:\MyPrograms\RealCoderSolution\UnderstandingLSP\bin\Debug\net6.0\ref\UnderstandingLSP.dll
+E:\MyPrograms\RealCoderSolution\UnderstandingLSP\bin\Debug\net6.0\UnderstandingLSP.pdb
+E:\MyPrograms\RealCoderSolution\UnderstandingLSP\obj\Debug\net6.0\UnderstandingLSP.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\RealCoderSolution\UnderstandingLSP\obj\Debug\net6.0\UnderstandingLSP.AssemblyInfoInputs.cache
+E:\MyPrograms\RealCoderSolution\UnderstandingLSP\obj\Debug\net6.0\UnderstandingLSP.AssemblyInfo.cs
+E:\MyPrograms\RealCoderSolution\UnderstandingLSP\obj\Debug\net6.0\UnderstandingLSP.csproj.CoreCompileInputs.cache
+E:\MyPrograms\RealCoderSolution\UnderstandingLSP\obj\Debug\net6.0\UnderstandingLSP.dll
+E:\MyPrograms\RealCoderSolution\UnderstandingLSP\obj\Debug\net6.0\ref\UnderstandingLSP.dll
+E:\MyPrograms\RealCoderSolution\UnderstandingLSP\obj\Debug\net6.0\UnderstandingLSP.pdb
+E:\MyPrograms\RealCoderSolution\UnderstandingLSP\obj\Debug\net6.0\UnderstandingLSP.genruntimeconfig.cache
+E:\MyPrograms\RealCoderSolution\UnderstandingLSP\obj\Debug\net6.0\UnderstandingLSP.csprojAssemblyReference.cache

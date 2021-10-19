@@ -1,0 +1,15 @@
+E:\MyPrograms\RealCoderSolution\DRYDemo\bin\Debug\net6.0\DRYDemo.exe
+E:\MyPrograms\RealCoderSolution\DRYDemo\bin\Debug\net6.0\DRYDemo.deps.json
+E:\MyPrograms\RealCoderSolution\DRYDemo\bin\Debug\net6.0\DRYDemo.runtimeconfig.json
+E:\MyPrograms\RealCoderSolution\DRYDemo\bin\Debug\net6.0\DRYDemo.runtimeconfig.dev.json
+E:\MyPrograms\RealCoderSolution\DRYDemo\bin\Debug\net6.0\DRYDemo.dll
+E:\MyPrograms\RealCoderSolution\DRYDemo\bin\Debug\net6.0\ref\DRYDemo.dll
+E:\MyPrograms\RealCoderSolution\DRYDemo\bin\Debug\net6.0\DRYDemo.pdb
+E:\MyPrograms\RealCoderSolution\DRYDemo\obj\Debug\net6.0\DRYDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\RealCoderSolution\DRYDemo\obj\Debug\net6.0\DRYDemo.AssemblyInfoInputs.cache
+E:\MyPrograms\RealCoderSolution\DRYDemo\obj\Debug\net6.0\DRYDemo.AssemblyInfo.cs
+E:\MyPrograms\RealCoderSolution\DRYDemo\obj\Debug\net6.0\DRYDemo.csproj.CoreCompileInputs.cache
+E:\MyPrograms\RealCoderSolution\DRYDemo\obj\Debug\net6.0\DRYDemo.dll
+E:\MyPrograms\RealCoderSolution\DRYDemo\obj\Debug\net6.0\ref\DRYDemo.dll
+E:\MyPrograms\RealCoderSolution\DRYDemo\obj\Debug\net6.0\DRYDemo.pdb
+E:\MyPrograms\RealCoderSolution\DRYDemo\obj\Debug\net6.0\DRYDemo.genruntimeconfig.cache

@@ -1,0 +1,26 @@
+C:\Users\Vaskaran Sarcar\source\repos\RealCoderSolution\DemoWithoutPolymorphism\bin\Debug\netcoreapp3.1\DemoWithoutPolymorphism.exe
+C:\Users\Vaskaran Sarcar\source\repos\RealCoderSolution\DemoWithoutPolymorphism\bin\Debug\netcoreapp3.1\DemoWithoutPolymorphism.deps.json
+C:\Users\Vaskaran Sarcar\source\repos\RealCoderSolution\DemoWithoutPolymorphism\bin\Debug\netcoreapp3.1\DemoWithoutPolymorphism.runtimeconfig.json
+C:\Users\Vaskaran Sarcar\source\repos\RealCoderSolution\DemoWithoutPolymorphism\bin\Debug\netcoreapp3.1\DemoWithoutPolymorphism.runtimeconfig.dev.json
+C:\Users\Vaskaran Sarcar\source\repos\RealCoderSolution\DemoWithoutPolymorphism\bin\Debug\netcoreapp3.1\DemoWithoutPolymorphism.dll
+C:\Users\Vaskaran Sarcar\source\repos\RealCoderSolution\DemoWithoutPolymorphism\bin\Debug\netcoreapp3.1\DemoWithoutPolymorphism.pdb
+C:\Users\Vaskaran Sarcar\source\repos\RealCoderSolution\DemoWithoutPolymorphism\obj\Debug\netcoreapp3.1\DemoWithoutPolymorphism.csprojAssemblyReference.cache
+C:\Users\Vaskaran Sarcar\source\repos\RealCoderSolution\DemoWithoutPolymorphism\obj\Debug\netcoreapp3.1\DemoWithoutPolymorphism.AssemblyInfoInputs.cache
+C:\Users\Vaskaran Sarcar\source\repos\RealCoderSolution\DemoWithoutPolymorphism\obj\Debug\netcoreapp3.1\DemoWithoutPolymorphism.AssemblyInfo.cs
+C:\Users\Vaskaran Sarcar\source\repos\RealCoderSolution\DemoWithoutPolymorphism\obj\Debug\netcoreapp3.1\DemoWithoutPolymorphism.csproj.CoreCompileInputs.cache
+C:\Users\Vaskaran Sarcar\source\repos\RealCoderSolution\DemoWithoutPolymorphism\obj\Debug\netcoreapp3.1\DemoWithoutPolymorphism.dll
+C:\Users\Vaskaran Sarcar\source\repos\RealCoderSolution\DemoWithoutPolymorphism\obj\Debug\netcoreapp3.1\DemoWithoutPolymorphism.pdb
+C:\Users\Vaskaran Sarcar\source\repos\RealCoderSolution\DemoWithoutPolymorphism\obj\Debug\netcoreapp3.1\DemoWithoutPolymorphism.genruntimeconfig.cache
+E:\MyPrograms\RealCoderSolution\DemoWithoutPolymorphism\bin\Debug\netcoreapp3.1\DemoWithoutPolymorphism.exe
+E:\MyPrograms\RealCoderSolution\DemoWithoutPolymorphism\bin\Debug\netcoreapp3.1\DemoWithoutPolymorphism.deps.json
+E:\MyPrograms\RealCoderSolution\DemoWithoutPolymorphism\bin\Debug\netcoreapp3.1\DemoWithoutPolymorphism.runtimeconfig.json
+E:\MyPrograms\RealCoderSolution\DemoWithoutPolymorphism\bin\Debug\netcoreapp3.1\DemoWithoutPolymorphism.runtimeconfig.dev.json
+E:\MyPrograms\RealCoderSolution\DemoWithoutPolymorphism\bin\Debug\netcoreapp3.1\DemoWithoutPolymorphism.dll
+E:\MyPrograms\RealCoderSolution\DemoWithoutPolymorphism\bin\Debug\netcoreapp3.1\DemoWithoutPolymorphism.pdb
+E:\MyPrograms\RealCoderSolution\DemoWithoutPolymorphism\obj\Debug\netcoreapp3.1\DemoWithoutPolymorphism.csprojAssemblyReference.cache
+E:\MyPrograms\RealCoderSolution\DemoWithoutPolymorphism\obj\Debug\netcoreapp3.1\DemoWithoutPolymorphism.AssemblyInfoInputs.cache
+E:\MyPrograms\RealCoderSolution\DemoWithoutPolymorphism\obj\Debug\netcoreapp3.1\DemoWithoutPolymorphism.AssemblyInfo.cs
+E:\MyPrograms\RealCoderSolution\DemoWithoutPolymorphism\obj\Debug\netcoreapp3.1\DemoWithoutPolymorphism.csproj.CoreCompileInputs.cache
+E:\MyPrograms\RealCoderSolution\DemoWithoutPolymorphism\obj\Debug\netcoreapp3.1\DemoWithoutPolymorphism.dll
+E:\MyPrograms\RealCoderSolution\DemoWithoutPolymorphism\obj\Debug\netcoreapp3.1\DemoWithoutPolymorphism.pdb
+E:\MyPrograms\RealCoderSolution\DemoWithoutPolymorphism\obj\Debug\netcoreapp3.1\DemoWithoutPolymorphism.genruntimeconfig.cache

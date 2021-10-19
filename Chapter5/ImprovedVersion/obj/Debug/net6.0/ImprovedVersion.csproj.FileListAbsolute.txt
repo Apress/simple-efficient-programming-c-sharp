@@ -1,0 +1,15 @@
+E:\MyPrograms\RealCoderSolution\ImprovedVersion\bin\Debug\net6.0\ImprovedVersion.exe
+E:\MyPrograms\RealCoderSolution\ImprovedVersion\bin\Debug\net6.0\ImprovedVersion.deps.json
+E:\MyPrograms\RealCoderSolution\ImprovedVersion\bin\Debug\net6.0\ImprovedVersion.runtimeconfig.json
+E:\MyPrograms\RealCoderSolution\ImprovedVersion\bin\Debug\net6.0\ImprovedVersion.runtimeconfig.dev.json
+E:\MyPrograms\RealCoderSolution\ImprovedVersion\bin\Debug\net6.0\ImprovedVersion.dll
+E:\MyPrograms\RealCoderSolution\ImprovedVersion\bin\Debug\net6.0\ref\ImprovedVersion.dll
+E:\MyPrograms\RealCoderSolution\ImprovedVersion\bin\Debug\net6.0\ImprovedVersion.pdb
+E:\MyPrograms\RealCoderSolution\ImprovedVersion\obj\Debug\net6.0\ImprovedVersion.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\RealCoderSolution\ImprovedVersion\obj\Debug\net6.0\ImprovedVersion.AssemblyInfoInputs.cache
+E:\MyPrograms\RealCoderSolution\ImprovedVersion\obj\Debug\net6.0\ImprovedVersion.AssemblyInfo.cs
+E:\MyPrograms\RealCoderSolution\ImprovedVersion\obj\Debug\net6.0\ImprovedVersion.csproj.CoreCompileInputs.cache
+E:\MyPrograms\RealCoderSolution\ImprovedVersion\obj\Debug\net6.0\ImprovedVersion.dll
+E:\MyPrograms\RealCoderSolution\ImprovedVersion\obj\Debug\net6.0\ref\ImprovedVersion.dll
+E:\MyPrograms\RealCoderSolution\ImprovedVersion\obj\Debug\net6.0\ImprovedVersion.pdb
+E:\MyPrograms\RealCoderSolution\ImprovedVersion\obj\Debug\net6.0\ImprovedVersion.genruntimeconfig.cache

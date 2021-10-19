@@ -1,0 +1,16 @@
+E:\MyPrograms\RealCoderSolution\WithoutOCPDemo\bin\Debug\net5.0\WithoutOCPDemo.exe
+E:\MyPrograms\RealCoderSolution\WithoutOCPDemo\bin\Debug\net5.0\WithoutOCPDemo.deps.json
+E:\MyPrograms\RealCoderSolution\WithoutOCPDemo\bin\Debug\net5.0\WithoutOCPDemo.runtimeconfig.json
+E:\MyPrograms\RealCoderSolution\WithoutOCPDemo\bin\Debug\net5.0\WithoutOCPDemo.runtimeconfig.dev.json
+E:\MyPrograms\RealCoderSolution\WithoutOCPDemo\bin\Debug\net5.0\WithoutOCPDemo.dll
+E:\MyPrograms\RealCoderSolution\WithoutOCPDemo\bin\Debug\net5.0\ref\WithoutOCPDemo.dll
+E:\MyPrograms\RealCoderSolution\WithoutOCPDemo\bin\Debug\net5.0\WithoutOCPDemo.pdb
+E:\MyPrograms\RealCoderSolution\WithoutOCPDemo\obj\Debug\net5.0\WithoutOCPDemo.csprojAssemblyReference.cache
+E:\MyPrograms\RealCoderSolution\WithoutOCPDemo\obj\Debug\net5.0\WithoutOCPDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\RealCoderSolution\WithoutOCPDemo\obj\Debug\net5.0\WithoutOCPDemo.AssemblyInfoInputs.cache
+E:\MyPrograms\RealCoderSolution\WithoutOCPDemo\obj\Debug\net5.0\WithoutOCPDemo.AssemblyInfo.cs
+E:\MyPrograms\RealCoderSolution\WithoutOCPDemo\obj\Debug\net5.0\WithoutOCPDemo.csproj.CoreCompileInputs.cache
+E:\MyPrograms\RealCoderSolution\WithoutOCPDemo\obj\Debug\net5.0\WithoutOCPDemo.dll
+E:\MyPrograms\RealCoderSolution\WithoutOCPDemo\obj\Debug\net5.0\ref\WithoutOCPDemo.dll
+E:\MyPrograms\RealCoderSolution\WithoutOCPDemo\obj\Debug\net5.0\WithoutOCPDemo.pdb
+E:\MyPrograms\RealCoderSolution\WithoutOCPDemo\obj\Debug\net5.0\WithoutOCPDemo.genruntimeconfig.cache

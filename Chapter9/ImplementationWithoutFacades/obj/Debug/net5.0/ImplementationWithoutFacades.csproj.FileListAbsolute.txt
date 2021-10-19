@@ -1,0 +1,16 @@
+E:\MyPrograms\RealCoderSolution\ImplementationWithoutFacades\bin\Debug\net5.0\ImplementationWithoutFacades.exe
+E:\MyPrograms\RealCoderSolution\ImplementationWithoutFacades\bin\Debug\net5.0\ImplementationWithoutFacades.deps.json
+E:\MyPrograms\RealCoderSolution\ImplementationWithoutFacades\bin\Debug\net5.0\ImplementationWithoutFacades.runtimeconfig.json
+E:\MyPrograms\RealCoderSolution\ImplementationWithoutFacades\bin\Debug\net5.0\ImplementationWithoutFacades.runtimeconfig.dev.json
+E:\MyPrograms\RealCoderSolution\ImplementationWithoutFacades\bin\Debug\net5.0\ImplementationWithoutFacades.dll
+E:\MyPrograms\RealCoderSolution\ImplementationWithoutFacades\bin\Debug\net5.0\ref\ImplementationWithoutFacades.dll
+E:\MyPrograms\RealCoderSolution\ImplementationWithoutFacades\bin\Debug\net5.0\ImplementationWithoutFacades.pdb
+E:\MyPrograms\RealCoderSolution\ImplementationWithoutFacades\obj\Debug\net5.0\ImplementationWithoutFacades.csprojAssemblyReference.cache
+E:\MyPrograms\RealCoderSolution\ImplementationWithoutFacades\obj\Debug\net5.0\ImplementationWithoutFacades.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\RealCoderSolution\ImplementationWithoutFacades\obj\Debug\net5.0\ImplementationWithoutFacades.AssemblyInfoInputs.cache
+E:\MyPrograms\RealCoderSolution\ImplementationWithoutFacades\obj\Debug\net5.0\ImplementationWithoutFacades.AssemblyInfo.cs
+E:\MyPrograms\RealCoderSolution\ImplementationWithoutFacades\obj\Debug\net5.0\ImplementationWithoutFacades.csproj.CoreCompileInputs.cache
+E:\MyPrograms\RealCoderSolution\ImplementationWithoutFacades\obj\Debug\net5.0\ImplementationWithoutFacades.dll
+E:\MyPrograms\RealCoderSolution\ImplementationWithoutFacades\obj\Debug\net5.0\ref\ImplementationWithoutFacades.dll
+E:\MyPrograms\RealCoderSolution\ImplementationWithoutFacades\obj\Debug\net5.0\ImplementationWithoutFacades.pdb
+E:\MyPrograms\RealCoderSolution\ImplementationWithoutFacades\obj\Debug\net5.0\ImplementationWithoutFacades.genruntimeconfig.cache

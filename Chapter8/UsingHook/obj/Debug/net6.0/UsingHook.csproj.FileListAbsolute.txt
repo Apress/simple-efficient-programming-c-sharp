@@ -1,0 +1,15 @@
+E:\MyPrograms\RealCoderSolution\UsingHook\bin\Debug\net6.0\UsingHook.exe
+E:\MyPrograms\RealCoderSolution\UsingHook\bin\Debug\net6.0\UsingHook.deps.json
+E:\MyPrograms\RealCoderSolution\UsingHook\bin\Debug\net6.0\UsingHook.runtimeconfig.json
+E:\MyPrograms\RealCoderSolution\UsingHook\bin\Debug\net6.0\UsingHook.runtimeconfig.dev.json
+E:\MyPrograms\RealCoderSolution\UsingHook\bin\Debug\net6.0\UsingHook.dll
+E:\MyPrograms\RealCoderSolution\UsingHook\bin\Debug\net6.0\ref\UsingHook.dll
+E:\MyPrograms\RealCoderSolution\UsingHook\bin\Debug\net6.0\UsingHook.pdb
+E:\MyPrograms\RealCoderSolution\UsingHook\obj\Debug\net6.0\UsingHook.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\RealCoderSolution\UsingHook\obj\Debug\net6.0\UsingHook.AssemblyInfoInputs.cache
+E:\MyPrograms\RealCoderSolution\UsingHook\obj\Debug\net6.0\UsingHook.AssemblyInfo.cs
+E:\MyPrograms\RealCoderSolution\UsingHook\obj\Debug\net6.0\UsingHook.csproj.CoreCompileInputs.cache
+E:\MyPrograms\RealCoderSolution\UsingHook\obj\Debug\net6.0\UsingHook.dll
+E:\MyPrograms\RealCoderSolution\UsingHook\obj\Debug\net6.0\ref\UsingHook.dll
+E:\MyPrograms\RealCoderSolution\UsingHook\obj\Debug\net6.0\UsingHook.pdb
+E:\MyPrograms\RealCoderSolution\UsingHook\obj\Debug\net6.0\UsingHook.genruntimeconfig.cache

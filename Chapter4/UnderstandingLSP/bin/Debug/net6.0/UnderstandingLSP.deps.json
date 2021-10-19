@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "UnderstandingLSP/1.0.0": {
+        "runtime": {
+          "UnderstandingLSP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UnderstandingLSP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

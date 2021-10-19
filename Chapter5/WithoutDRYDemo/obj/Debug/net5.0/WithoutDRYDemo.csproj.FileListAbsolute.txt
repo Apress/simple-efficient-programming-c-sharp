@@ -1,0 +1,16 @@
+E:\MyPrograms\RealCoderSolution\WithoutDRYDemo\bin\Debug\net5.0\WithoutDRYDemo.exe
+E:\MyPrograms\RealCoderSolution\WithoutDRYDemo\bin\Debug\net5.0\WithoutDRYDemo.deps.json
+E:\MyPrograms\RealCoderSolution\WithoutDRYDemo\bin\Debug\net5.0\WithoutDRYDemo.runtimeconfig.json
+E:\MyPrograms\RealCoderSolution\WithoutDRYDemo\bin\Debug\net5.0\WithoutDRYDemo.runtimeconfig.dev.json
+E:\MyPrograms\RealCoderSolution\WithoutDRYDemo\bin\Debug\net5.0\WithoutDRYDemo.dll
+E:\MyPrograms\RealCoderSolution\WithoutDRYDemo\bin\Debug\net5.0\ref\WithoutDRYDemo.dll
+E:\MyPrograms\RealCoderSolution\WithoutDRYDemo\bin\Debug\net5.0\WithoutDRYDemo.pdb
+E:\MyPrograms\RealCoderSolution\WithoutDRYDemo\obj\Debug\net5.0\WithoutDRYDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\RealCoderSolution\WithoutDRYDemo\obj\Debug\net5.0\WithoutDRYDemo.AssemblyInfoInputs.cache
+E:\MyPrograms\RealCoderSolution\WithoutDRYDemo\obj\Debug\net5.0\WithoutDRYDemo.AssemblyInfo.cs
+E:\MyPrograms\RealCoderSolution\WithoutDRYDemo\obj\Debug\net5.0\WithoutDRYDemo.csproj.CoreCompileInputs.cache
+E:\MyPrograms\RealCoderSolution\WithoutDRYDemo\obj\Debug\net5.0\WithoutDRYDemo.dll
+E:\MyPrograms\RealCoderSolution\WithoutDRYDemo\obj\Debug\net5.0\ref\WithoutDRYDemo.dll
+E:\MyPrograms\RealCoderSolution\WithoutDRYDemo\obj\Debug\net5.0\WithoutDRYDemo.pdb
+E:\MyPrograms\RealCoderSolution\WithoutDRYDemo\obj\Debug\net5.0\WithoutDRYDemo.genruntimeconfig.cache
+E:\MyPrograms\RealCoderSolution\WithoutDRYDemo\obj\Debug\net5.0\WithoutDRYDemo.csprojAssemblyReference.cache

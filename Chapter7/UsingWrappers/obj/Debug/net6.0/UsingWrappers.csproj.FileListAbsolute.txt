@@ -1,0 +1,16 @@
+E:\MyPrograms\RealCoderSolution\UsingWrappers\bin\Debug\net6.0\UsingWrappers.exe
+E:\MyPrograms\RealCoderSolution\UsingWrappers\bin\Debug\net6.0\UsingWrappers.deps.json
+E:\MyPrograms\RealCoderSolution\UsingWrappers\bin\Debug\net6.0\UsingWrappers.runtimeconfig.json
+E:\MyPrograms\RealCoderSolution\UsingWrappers\bin\Debug\net6.0\UsingWrappers.runtimeconfig.dev.json
+E:\MyPrograms\RealCoderSolution\UsingWrappers\bin\Debug\net6.0\UsingWrappers.dll
+E:\MyPrograms\RealCoderSolution\UsingWrappers\bin\Debug\net6.0\ref\UsingWrappers.dll
+E:\MyPrograms\RealCoderSolution\UsingWrappers\bin\Debug\net6.0\UsingWrappers.pdb
+E:\MyPrograms\RealCoderSolution\UsingWrappers\obj\Debug\net6.0\UsingWrappers.csprojAssemblyReference.cache
+E:\MyPrograms\RealCoderSolution\UsingWrappers\obj\Debug\net6.0\UsingWrappers.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\RealCoderSolution\UsingWrappers\obj\Debug\net6.0\UsingWrappers.AssemblyInfoInputs.cache
+E:\MyPrograms\RealCoderSolution\UsingWrappers\obj\Debug\net6.0\UsingWrappers.AssemblyInfo.cs
+E:\MyPrograms\RealCoderSolution\UsingWrappers\obj\Debug\net6.0\UsingWrappers.csproj.CoreCompileInputs.cache
+E:\MyPrograms\RealCoderSolution\UsingWrappers\obj\Debug\net6.0\UsingWrappers.dll
+E:\MyPrograms\RealCoderSolution\UsingWrappers\obj\Debug\net6.0\ref\UsingWrappers.dll
+E:\MyPrograms\RealCoderSolution\UsingWrappers\obj\Debug\net6.0\UsingWrappers.pdb
+E:\MyPrograms\RealCoderSolution\UsingWrappers\obj\Debug\net6.0\UsingWrappers.genruntimeconfig.cache

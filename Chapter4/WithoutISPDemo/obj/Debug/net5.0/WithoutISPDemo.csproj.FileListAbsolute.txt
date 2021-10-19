@@ -1,0 +1,15 @@
+E:\MyPrograms\RealCoderSolution\WithoutISPDemo\bin\Debug\net5.0\WithoutISPDemo.exe
+E:\MyPrograms\RealCoderSolution\WithoutISPDemo\bin\Debug\net5.0\WithoutISPDemo.deps.json
+E:\MyPrograms\RealCoderSolution\WithoutISPDemo\bin\Debug\net5.0\WithoutISPDemo.runtimeconfig.json
+E:\MyPrograms\RealCoderSolution\WithoutISPDemo\bin\Debug\net5.0\WithoutISPDemo.runtimeconfig.dev.json
+E:\MyPrograms\RealCoderSolution\WithoutISPDemo\bin\Debug\net5.0\WithoutISPDemo.dll
+E:\MyPrograms\RealCoderSolution\WithoutISPDemo\bin\Debug\net5.0\ref\WithoutISPDemo.dll
+E:\MyPrograms\RealCoderSolution\WithoutISPDemo\bin\Debug\net5.0\WithoutISPDemo.pdb
+E:\MyPrograms\RealCoderSolution\WithoutISPDemo\obj\Debug\net5.0\WithoutISPDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\RealCoderSolution\WithoutISPDemo\obj\Debug\net5.0\WithoutISPDemo.AssemblyInfoInputs.cache
+E:\MyPrograms\RealCoderSolution\WithoutISPDemo\obj\Debug\net5.0\WithoutISPDemo.AssemblyInfo.cs
+E:\MyPrograms\RealCoderSolution\WithoutISPDemo\obj\Debug\net5.0\WithoutISPDemo.csproj.CoreCompileInputs.cache
+E:\MyPrograms\RealCoderSolution\WithoutISPDemo\obj\Debug\net5.0\WithoutISPDemo.dll
+E:\MyPrograms\RealCoderSolution\WithoutISPDemo\obj\Debug\net5.0\ref\WithoutISPDemo.dll
+E:\MyPrograms\RealCoderSolution\WithoutISPDemo\obj\Debug\net5.0\WithoutISPDemo.pdb
+E:\MyPrograms\RealCoderSolution\WithoutISPDemo\obj\Debug\net5.0\WithoutISPDemo.genruntimeconfig.cache

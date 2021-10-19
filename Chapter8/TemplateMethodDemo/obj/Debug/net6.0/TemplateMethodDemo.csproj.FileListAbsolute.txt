@@ -1,0 +1,16 @@
+E:\MyPrograms\RealCoderSolution\TemplateMethodDemo\bin\Debug\net6.0\TemplateMethodDemo.exe
+E:\MyPrograms\RealCoderSolution\TemplateMethodDemo\bin\Debug\net6.0\TemplateMethodDemo.deps.json
+E:\MyPrograms\RealCoderSolution\TemplateMethodDemo\bin\Debug\net6.0\TemplateMethodDemo.runtimeconfig.json
+E:\MyPrograms\RealCoderSolution\TemplateMethodDemo\bin\Debug\net6.0\TemplateMethodDemo.runtimeconfig.dev.json
+E:\MyPrograms\RealCoderSolution\TemplateMethodDemo\bin\Debug\net6.0\TemplateMethodDemo.dll
+E:\MyPrograms\RealCoderSolution\TemplateMethodDemo\bin\Debug\net6.0\ref\TemplateMethodDemo.dll
+E:\MyPrograms\RealCoderSolution\TemplateMethodDemo\bin\Debug\net6.0\TemplateMethodDemo.pdb
+E:\MyPrograms\RealCoderSolution\TemplateMethodDemo\obj\Debug\net6.0\TemplateMethodDemo.csprojAssemblyReference.cache
+E:\MyPrograms\RealCoderSolution\TemplateMethodDemo\obj\Debug\net6.0\TemplateMethodDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\RealCoderSolution\TemplateMethodDemo\obj\Debug\net6.0\TemplateMethodDemo.AssemblyInfoInputs.cache
+E:\MyPrograms\RealCoderSolution\TemplateMethodDemo\obj\Debug\net6.0\TemplateMethodDemo.AssemblyInfo.cs
+E:\MyPrograms\RealCoderSolution\TemplateMethodDemo\obj\Debug\net6.0\TemplateMethodDemo.csproj.CoreCompileInputs.cache
+E:\MyPrograms\RealCoderSolution\TemplateMethodDemo\obj\Debug\net6.0\TemplateMethodDemo.dll
+E:\MyPrograms\RealCoderSolution\TemplateMethodDemo\obj\Debug\net6.0\ref\TemplateMethodDemo.dll
+E:\MyPrograms\RealCoderSolution\TemplateMethodDemo\obj\Debug\net6.0\TemplateMethodDemo.pdb
+E:\MyPrograms\RealCoderSolution\TemplateMethodDemo\obj\Debug\net6.0\TemplateMethodDemo.genruntimeconfig.cache

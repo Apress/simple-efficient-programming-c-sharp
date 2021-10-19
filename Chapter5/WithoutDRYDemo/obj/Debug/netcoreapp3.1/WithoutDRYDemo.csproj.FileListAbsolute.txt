@@ -1,0 +1,13 @@
+E:\MyPrograms\RealCoderSolution\WithoutDRYDemo\bin\Debug\netcoreapp3.1\WithoutDRYDemo.exe
+E:\MyPrograms\RealCoderSolution\WithoutDRYDemo\bin\Debug\netcoreapp3.1\WithoutDRYDemo.deps.json
+E:\MyPrograms\RealCoderSolution\WithoutDRYDemo\bin\Debug\netcoreapp3.1\WithoutDRYDemo.runtimeconfig.json
+E:\MyPrograms\RealCoderSolution\WithoutDRYDemo\bin\Debug\netcoreapp3.1\WithoutDRYDemo.runtimeconfig.dev.json
+E:\MyPrograms\RealCoderSolution\WithoutDRYDemo\bin\Debug\netcoreapp3.1\WithoutDRYDemo.dll
+E:\MyPrograms\RealCoderSolution\WithoutDRYDemo\bin\Debug\netcoreapp3.1\WithoutDRYDemo.pdb
+E:\MyPrograms\RealCoderSolution\WithoutDRYDemo\obj\Debug\netcoreapp3.1\WithoutDRYDemo.csprojAssemblyReference.cache
+E:\MyPrograms\RealCoderSolution\WithoutDRYDemo\obj\Debug\netcoreapp3.1\WithoutDRYDemo.AssemblyInfoInputs.cache
+E:\MyPrograms\RealCoderSolution\WithoutDRYDemo\obj\Debug\netcoreapp3.1\WithoutDRYDemo.AssemblyInfo.cs
+E:\MyPrograms\RealCoderSolution\WithoutDRYDemo\obj\Debug\netcoreapp3.1\WithoutDRYDemo.csproj.CoreCompileInputs.cache
+E:\MyPrograms\RealCoderSolution\WithoutDRYDemo\obj\Debug\netcoreapp3.1\WithoutDRYDemo.dll
+E:\MyPrograms\RealCoderSolution\WithoutDRYDemo\obj\Debug\netcoreapp3.1\WithoutDRYDemo.pdb
+E:\MyPrograms\RealCoderSolution\WithoutDRYDemo\obj\Debug\netcoreapp3.1\WithoutDRYDemo.genruntimeconfig.cache

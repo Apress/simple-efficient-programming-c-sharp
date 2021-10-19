@@ -1,0 +1,16 @@
+E:\MyPrograms\RealCoderSolution\Demo1Modified\bin\Debug\net6.0\Demo1Modified.exe
+E:\MyPrograms\RealCoderSolution\Demo1Modified\bin\Debug\net6.0\Demo1Modified.deps.json
+E:\MyPrograms\RealCoderSolution\Demo1Modified\bin\Debug\net6.0\Demo1Modified.runtimeconfig.json
+E:\MyPrograms\RealCoderSolution\Demo1Modified\bin\Debug\net6.0\Demo1Modified.runtimeconfig.dev.json
+E:\MyPrograms\RealCoderSolution\Demo1Modified\bin\Debug\net6.0\Demo1Modified.dll
+E:\MyPrograms\RealCoderSolution\Demo1Modified\bin\Debug\net6.0\ref\Demo1Modified.dll
+E:\MyPrograms\RealCoderSolution\Demo1Modified\bin\Debug\net6.0\Demo1Modified.pdb
+E:\MyPrograms\RealCoderSolution\Demo1Modified\obj\Debug\net6.0\Demo1Modified.csprojAssemblyReference.cache
+E:\MyPrograms\RealCoderSolution\Demo1Modified\obj\Debug\net6.0\Demo1Modified.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\RealCoderSolution\Demo1Modified\obj\Debug\net6.0\Demo1Modified.AssemblyInfoInputs.cache
+E:\MyPrograms\RealCoderSolution\Demo1Modified\obj\Debug\net6.0\Demo1Modified.AssemblyInfo.cs
+E:\MyPrograms\RealCoderSolution\Demo1Modified\obj\Debug\net6.0\Demo1Modified.csproj.CoreCompileInputs.cache
+E:\MyPrograms\RealCoderSolution\Demo1Modified\obj\Debug\net6.0\Demo1Modified.dll
+E:\MyPrograms\RealCoderSolution\Demo1Modified\obj\Debug\net6.0\ref\Demo1Modified.dll
+E:\MyPrograms\RealCoderSolution\Demo1Modified\obj\Debug\net6.0\Demo1Modified.pdb
+E:\MyPrograms\RealCoderSolution\Demo1Modified\obj\Debug\net6.0\Demo1Modified.genruntimeconfig.cache

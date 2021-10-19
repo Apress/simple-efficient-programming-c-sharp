@@ -1,0 +1,16 @@
+E:\MyPrograms\RealCoderSolution\UsingFacade\bin\Debug\net6.0\UsingFacade.exe
+E:\MyPrograms\RealCoderSolution\UsingFacade\bin\Debug\net6.0\UsingFacade.deps.json
+E:\MyPrograms\RealCoderSolution\UsingFacade\bin\Debug\net6.0\UsingFacade.runtimeconfig.json
+E:\MyPrograms\RealCoderSolution\UsingFacade\bin\Debug\net6.0\UsingFacade.runtimeconfig.dev.json
+E:\MyPrograms\RealCoderSolution\UsingFacade\bin\Debug\net6.0\UsingFacade.dll
+E:\MyPrograms\RealCoderSolution\UsingFacade\bin\Debug\net6.0\ref\UsingFacade.dll
+E:\MyPrograms\RealCoderSolution\UsingFacade\bin\Debug\net6.0\UsingFacade.pdb
+E:\MyPrograms\RealCoderSolution\UsingFacade\obj\Debug\net6.0\UsingFacade.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\RealCoderSolution\UsingFacade\obj\Debug\net6.0\UsingFacade.AssemblyInfoInputs.cache
+E:\MyPrograms\RealCoderSolution\UsingFacade\obj\Debug\net6.0\UsingFacade.AssemblyInfo.cs
+E:\MyPrograms\RealCoderSolution\UsingFacade\obj\Debug\net6.0\UsingFacade.csproj.CoreCompileInputs.cache
+E:\MyPrograms\RealCoderSolution\UsingFacade\obj\Debug\net6.0\UsingFacade.dll
+E:\MyPrograms\RealCoderSolution\UsingFacade\obj\Debug\net6.0\ref\UsingFacade.dll
+E:\MyPrograms\RealCoderSolution\UsingFacade\obj\Debug\net6.0\UsingFacade.pdb
+E:\MyPrograms\RealCoderSolution\UsingFacade\obj\Debug\net6.0\UsingFacade.genruntimeconfig.cache
+E:\MyPrograms\RealCoderSolution\UsingFacade\obj\Debug\net6.0\UsingFacade.csprojAssemblyReference.cache

@@ -1,0 +1,24 @@
+C:\Users\Vaskaran Sarcar\source\repos\RealCoderSolution\WithoutSRPDemo\bin\Debug\netcoreapp3.1\WithoutSRPDemo.exe
+C:\Users\Vaskaran Sarcar\source\repos\RealCoderSolution\WithoutSRPDemo\bin\Debug\netcoreapp3.1\WithoutSRPDemo.deps.json
+C:\Users\Vaskaran Sarcar\source\repos\RealCoderSolution\WithoutSRPDemo\bin\Debug\netcoreapp3.1\WithoutSRPDemo.runtimeconfig.json
+C:\Users\Vaskaran Sarcar\source\repos\RealCoderSolution\WithoutSRPDemo\bin\Debug\netcoreapp3.1\WithoutSRPDemo.runtimeconfig.dev.json
+C:\Users\Vaskaran Sarcar\source\repos\RealCoderSolution\WithoutSRPDemo\bin\Debug\netcoreapp3.1\WithoutSRPDemo.dll
+C:\Users\Vaskaran Sarcar\source\repos\RealCoderSolution\WithoutSRPDemo\bin\Debug\netcoreapp3.1\WithoutSRPDemo.pdb
+C:\Users\Vaskaran Sarcar\source\repos\RealCoderSolution\WithoutSRPDemo\obj\Debug\netcoreapp3.1\WithoutSRPDemo.AssemblyInfoInputs.cache
+C:\Users\Vaskaran Sarcar\source\repos\RealCoderSolution\WithoutSRPDemo\obj\Debug\netcoreapp3.1\WithoutSRPDemo.AssemblyInfo.cs
+C:\Users\Vaskaran Sarcar\source\repos\RealCoderSolution\WithoutSRPDemo\obj\Debug\netcoreapp3.1\WithoutSRPDemo.csproj.CoreCompileInputs.cache
+C:\Users\Vaskaran Sarcar\source\repos\RealCoderSolution\WithoutSRPDemo\obj\Debug\netcoreapp3.1\WithoutSRPDemo.dll
+C:\Users\Vaskaran Sarcar\source\repos\RealCoderSolution\WithoutSRPDemo\obj\Debug\netcoreapp3.1\WithoutSRPDemo.pdb
+C:\Users\Vaskaran Sarcar\source\repos\RealCoderSolution\WithoutSRPDemo\obj\Debug\netcoreapp3.1\WithoutSRPDemo.genruntimeconfig.cache
+E:\MyPrograms\RealCoderSolution\WithoutSRPDemo\bin\Debug\netcoreapp3.1\WithoutSRPDemo.exe
+E:\MyPrograms\RealCoderSolution\WithoutSRPDemo\bin\Debug\netcoreapp3.1\WithoutSRPDemo.deps.json
+E:\MyPrograms\RealCoderSolution\WithoutSRPDemo\bin\Debug\netcoreapp3.1\WithoutSRPDemo.runtimeconfig.json
+E:\MyPrograms\RealCoderSolution\WithoutSRPDemo\bin\Debug\netcoreapp3.1\WithoutSRPDemo.runtimeconfig.dev.json
+E:\MyPrograms\RealCoderSolution\WithoutSRPDemo\bin\Debug\netcoreapp3.1\WithoutSRPDemo.dll
+E:\MyPrograms\RealCoderSolution\WithoutSRPDemo\bin\Debug\netcoreapp3.1\WithoutSRPDemo.pdb
+E:\MyPrograms\RealCoderSolution\WithoutSRPDemo\obj\Debug\netcoreapp3.1\WithoutSRPDemo.AssemblyInfoInputs.cache
+E:\MyPrograms\RealCoderSolution\WithoutSRPDemo\obj\Debug\netcoreapp3.1\WithoutSRPDemo.AssemblyInfo.cs
+E:\MyPrograms\RealCoderSolution\WithoutSRPDemo\obj\Debug\netcoreapp3.1\WithoutSRPDemo.csproj.CoreCompileInputs.cache
+E:\MyPrograms\RealCoderSolution\WithoutSRPDemo\obj\Debug\netcoreapp3.1\WithoutSRPDemo.dll
+E:\MyPrograms\RealCoderSolution\WithoutSRPDemo\obj\Debug\netcoreapp3.1\WithoutSRPDemo.pdb
+E:\MyPrograms\RealCoderSolution\WithoutSRPDemo\obj\Debug\netcoreapp3.1\WithoutSRPDemo.genruntimeconfig.cache

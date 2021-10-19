@@ -1,0 +1,12 @@
+E:\MyPrograms\RealCoderSolution\ImprovedVersion\obj\Debug\netcoreapp3.1\ImprovedVersion.AssemblyInfoInputs.cache
+E:\MyPrograms\RealCoderSolution\ImprovedVersion\obj\Debug\netcoreapp3.1\ImprovedVersion.AssemblyInfo.cs
+E:\MyPrograms\RealCoderSolution\ImprovedVersion\obj\Debug\netcoreapp3.1\ImprovedVersion.csproj.CoreCompileInputs.cache
+E:\MyPrograms\RealCoderSolution\ImprovedVersion\bin\Debug\netcoreapp3.1\ImprovedVersion.exe
+E:\MyPrograms\RealCoderSolution\ImprovedVersion\bin\Debug\netcoreapp3.1\ImprovedVersion.deps.json
+E:\MyPrograms\RealCoderSolution\ImprovedVersion\bin\Debug\netcoreapp3.1\ImprovedVersion.runtimeconfig.json
+E:\MyPrograms\RealCoderSolution\ImprovedVersion\bin\Debug\netcoreapp3.1\ImprovedVersion.runtimeconfig.dev.json
+E:\MyPrograms\RealCoderSolution\ImprovedVersion\bin\Debug\netcoreapp3.1\ImprovedVersion.dll
+E:\MyPrograms\RealCoderSolution\ImprovedVersion\bin\Debug\netcoreapp3.1\ImprovedVersion.pdb
+E:\MyPrograms\RealCoderSolution\ImprovedVersion\obj\Debug\netcoreapp3.1\ImprovedVersion.dll
+E:\MyPrograms\RealCoderSolution\ImprovedVersion\obj\Debug\netcoreapp3.1\ImprovedVersion.pdb
+E:\MyPrograms\RealCoderSolution\ImprovedVersion\obj\Debug\netcoreapp3.1\ImprovedVersion.genruntimeconfig.cache

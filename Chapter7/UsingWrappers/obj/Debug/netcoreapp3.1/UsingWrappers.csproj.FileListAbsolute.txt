@@ -1,0 +1,13 @@
+E:\MyPrograms\RealCoderSolution\UsingWrappers\bin\Debug\netcoreapp3.1\UsingWrappers.exe
+E:\MyPrograms\RealCoderSolution\UsingWrappers\bin\Debug\netcoreapp3.1\UsingWrappers.deps.json
+E:\MyPrograms\RealCoderSolution\UsingWrappers\bin\Debug\netcoreapp3.1\UsingWrappers.runtimeconfig.json
+E:\MyPrograms\RealCoderSolution\UsingWrappers\bin\Debug\netcoreapp3.1\UsingWrappers.runtimeconfig.dev.json
+E:\MyPrograms\RealCoderSolution\UsingWrappers\bin\Debug\netcoreapp3.1\UsingWrappers.dll
+E:\MyPrograms\RealCoderSolution\UsingWrappers\bin\Debug\netcoreapp3.1\UsingWrappers.pdb
+E:\MyPrograms\RealCoderSolution\UsingWrappers\obj\Debug\netcoreapp3.1\UsingWrappers.csprojAssemblyReference.cache
+E:\MyPrograms\RealCoderSolution\UsingWrappers\obj\Debug\netcoreapp3.1\UsingWrappers.AssemblyInfoInputs.cache
+E:\MyPrograms\RealCoderSolution\UsingWrappers\obj\Debug\netcoreapp3.1\UsingWrappers.AssemblyInfo.cs
+E:\MyPrograms\RealCoderSolution\UsingWrappers\obj\Debug\netcoreapp3.1\UsingWrappers.csproj.CoreCompileInputs.cache
+E:\MyPrograms\RealCoderSolution\UsingWrappers\obj\Debug\netcoreapp3.1\UsingWrappers.dll
+E:\MyPrograms\RealCoderSolution\UsingWrappers\obj\Debug\netcoreapp3.1\UsingWrappers.pdb
+E:\MyPrograms\RealCoderSolution\UsingWrappers\obj\Debug\netcoreapp3.1\UsingWrappers.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+E:\MyPrograms\RealCoderSolution\UsingPolymorphism\bin\Debug\net6.0\UsingPolymorphism.exe
+E:\MyPrograms\RealCoderSolution\UsingPolymorphism\bin\Debug\net6.0\UsingPolymorphism.deps.json
+E:\MyPrograms\RealCoderSolution\UsingPolymorphism\bin\Debug\net6.0\UsingPolymorphism.runtimeconfig.json
+E:\MyPrograms\RealCoderSolution\UsingPolymorphism\bin\Debug\net6.0\UsingPolymorphism.runtimeconfig.dev.json
+E:\MyPrograms\RealCoderSolution\UsingPolymorphism\bin\Debug\net6.0\UsingPolymorphism.dll
+E:\MyPrograms\RealCoderSolution\UsingPolymorphism\bin\Debug\net6.0\ref\UsingPolymorphism.dll
+E:\MyPrograms\RealCoderSolution\UsingPolymorphism\bin\Debug\net6.0\UsingPolymorphism.pdb
+E:\MyPrograms\RealCoderSolution\UsingPolymorphism\obj\Debug\net6.0\UsingPolymorphism.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\RealCoderSolution\UsingPolymorphism\obj\Debug\net6.0\UsingPolymorphism.AssemblyInfoInputs.cache
+E:\MyPrograms\RealCoderSolution\UsingPolymorphism\obj\Debug\net6.0\UsingPolymorphism.AssemblyInfo.cs
+E:\MyPrograms\RealCoderSolution\UsingPolymorphism\obj\Debug\net6.0\UsingPolymorphism.csproj.CoreCompileInputs.cache
+E:\MyPrograms\RealCoderSolution\UsingPolymorphism\obj\Debug\net6.0\UsingPolymorphism.dll
+E:\MyPrograms\RealCoderSolution\UsingPolymorphism\obj\Debug\net6.0\ref\UsingPolymorphism.dll
+E:\MyPrograms\RealCoderSolution\UsingPolymorphism\obj\Debug\net6.0\UsingPolymorphism.pdb
+E:\MyPrograms\RealCoderSolution\UsingPolymorphism\obj\Debug\net6.0\UsingPolymorphism.genruntimeconfig.cache
+E:\MyPrograms\RealCoderSolution\UsingPolymorphism\obj\Debug\net6.0\UsingPolymorphism.csprojAssemblyReference.cache

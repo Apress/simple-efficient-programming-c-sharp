@@ -1,0 +1,13 @@
+E:\MyPrograms\RealCoderSolution\WithoutOCPDemo\bin\Debug\netcoreapp3.1\WithoutOCPDemo.exe
+E:\MyPrograms\RealCoderSolution\WithoutOCPDemo\bin\Debug\netcoreapp3.1\WithoutOCPDemo.deps.json
+E:\MyPrograms\RealCoderSolution\WithoutOCPDemo\bin\Debug\netcoreapp3.1\WithoutOCPDemo.runtimeconfig.json
+E:\MyPrograms\RealCoderSolution\WithoutOCPDemo\bin\Debug\netcoreapp3.1\WithoutOCPDemo.runtimeconfig.dev.json
+E:\MyPrograms\RealCoderSolution\WithoutOCPDemo\bin\Debug\netcoreapp3.1\WithoutOCPDemo.dll
+E:\MyPrograms\RealCoderSolution\WithoutOCPDemo\bin\Debug\netcoreapp3.1\WithoutOCPDemo.pdb
+E:\MyPrograms\RealCoderSolution\WithoutOCPDemo\obj\Debug\netcoreapp3.1\WithoutOCPDemo.csprojAssemblyReference.cache
+E:\MyPrograms\RealCoderSolution\WithoutOCPDemo\obj\Debug\netcoreapp3.1\WithoutOCPDemo.AssemblyInfoInputs.cache
+E:\MyPrograms\RealCoderSolution\WithoutOCPDemo\obj\Debug\netcoreapp3.1\WithoutOCPDemo.AssemblyInfo.cs
+E:\MyPrograms\RealCoderSolution\WithoutOCPDemo\obj\Debug\netcoreapp3.1\WithoutOCPDemo.csproj.CoreCompileInputs.cache
+E:\MyPrograms\RealCoderSolution\WithoutOCPDemo\obj\Debug\netcoreapp3.1\WithoutOCPDemo.dll
+E:\MyPrograms\RealCoderSolution\WithoutOCPDemo\obj\Debug\netcoreapp3.1\WithoutOCPDemo.pdb
+E:\MyPrograms\RealCoderSolution\WithoutOCPDemo\obj\Debug\netcoreapp3.1\WithoutOCPDemo.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+E:\MyPrograms\RealCoderSolution\TemplateMethodDemo\bin\Debug\netcoreapp3.1\TemplateMethodDemo.exe
+E:\MyPrograms\RealCoderSolution\TemplateMethodDemo\bin\Debug\netcoreapp3.1\TemplateMethodDemo.deps.json
+E:\MyPrograms\RealCoderSolution\TemplateMethodDemo\bin\Debug\netcoreapp3.1\TemplateMethodDemo.runtimeconfig.json
+E:\MyPrograms\RealCoderSolution\TemplateMethodDemo\bin\Debug\netcoreapp3.1\TemplateMethodDemo.runtimeconfig.dev.json
+E:\MyPrograms\RealCoderSolution\TemplateMethodDemo\bin\Debug\netcoreapp3.1\TemplateMethodDemo.dll
+E:\MyPrograms\RealCoderSolution\TemplateMethodDemo\bin\Debug\netcoreapp3.1\TemplateMethodDemo.pdb
+E:\MyPrograms\RealCoderSolution\TemplateMethodDemo\obj\Debug\netcoreapp3.1\TemplateMethodDemo.AssemblyInfoInputs.cache
+E:\MyPrograms\RealCoderSolution\TemplateMethodDemo\obj\Debug\netcoreapp3.1\TemplateMethodDemo.AssemblyInfo.cs
+E:\MyPrograms\RealCoderSolution\TemplateMethodDemo\obj\Debug\netcoreapp3.1\TemplateMethodDemo.csproj.CoreCompileInputs.cache
+E:\MyPrograms\RealCoderSolution\TemplateMethodDemo\obj\Debug\netcoreapp3.1\TemplateMethodDemo.dll
+E:\MyPrograms\RealCoderSolution\TemplateMethodDemo\obj\Debug\netcoreapp3.1\TemplateMethodDemo.pdb
+E:\MyPrograms\RealCoderSolution\TemplateMethodDemo\obj\Debug\netcoreapp3.1\TemplateMethodDemo.genruntimeconfig.cache

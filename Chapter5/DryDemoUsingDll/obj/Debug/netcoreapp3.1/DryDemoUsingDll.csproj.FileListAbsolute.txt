@@ -1,0 +1,16 @@
+E:\MyPrograms\RealCoderSolution\DryDemoUsingDll\obj\Debug\netcoreapp3.1\DryDemoUsingDll.csprojAssemblyReference.cache
+E:\MyPrograms\RealCoderSolution\DryDemoUsingDll\obj\Debug\netcoreapp3.1\DryDemoUsingDll.AssemblyInfoInputs.cache
+E:\MyPrograms\RealCoderSolution\DryDemoUsingDll\obj\Debug\netcoreapp3.1\DryDemoUsingDll.AssemblyInfo.cs
+E:\MyPrograms\RealCoderSolution\DryDemoUsingDll\obj\Debug\netcoreapp3.1\DryDemoUsingDll.csproj.CoreCompileInputs.cache
+E:\MyPrograms\RealCoderSolution\DryDemoUsingDll\bin\Debug\netcoreapp3.1\DryDemoUsingDll.exe
+E:\MyPrograms\RealCoderSolution\DryDemoUsingDll\bin\Debug\netcoreapp3.1\DryDemoUsingDll.deps.json
+E:\MyPrograms\RealCoderSolution\DryDemoUsingDll\bin\Debug\netcoreapp3.1\DryDemoUsingDll.runtimeconfig.json
+E:\MyPrograms\RealCoderSolution\DryDemoUsingDll\bin\Debug\netcoreapp3.1\DryDemoUsingDll.runtimeconfig.dev.json
+E:\MyPrograms\RealCoderSolution\DryDemoUsingDll\bin\Debug\netcoreapp3.1\DryDemoUsingDll.dll
+E:\MyPrograms\RealCoderSolution\DryDemoUsingDll\bin\Debug\netcoreapp3.1\DryDemoUsingDll.pdb
+E:\MyPrograms\RealCoderSolution\DryDemoUsingDll\bin\Debug\netcoreapp3.1\BasicGameInfo.dll
+E:\MyPrograms\RealCoderSolution\DryDemoUsingDll\bin\Debug\netcoreapp3.1\BasicGameInfo.pdb
+E:\MyPrograms\RealCoderSolution\DryDemoUsingDll\obj\Debug\netcoreapp3.1\DryDemoUsingDll.csproj.CopyComplete
+E:\MyPrograms\RealCoderSolution\DryDemoUsingDll\obj\Debug\netcoreapp3.1\DryDemoUsingDll.dll
+E:\MyPrograms\RealCoderSolution\DryDemoUsingDll\obj\Debug\netcoreapp3.1\DryDemoUsingDll.pdb
+E:\MyPrograms\RealCoderSolution\DryDemoUsingDll\obj\Debug\netcoreapp3.1\DryDemoUsingDll.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\MyPrograms\RealCoderSolution\ISPDemo\bin\Debug\netcoreapp3.1\ISPDemo.exe
+E:\MyPrograms\RealCoderSolution\ISPDemo\bin\Debug\netcoreapp3.1\ISPDemo.deps.json
+E:\MyPrograms\RealCoderSolution\ISPDemo\bin\Debug\netcoreapp3.1\ISPDemo.runtimeconfig.json
+E:\MyPrograms\RealCoderSolution\ISPDemo\bin\Debug\netcoreapp3.1\ISPDemo.runtimeconfig.dev.json
+E:\MyPrograms\RealCoderSolution\ISPDemo\bin\Debug\netcoreapp3.1\ISPDemo.dll
+E:\MyPrograms\RealCoderSolution\ISPDemo\bin\Debug\netcoreapp3.1\ISPDemo.pdb
+E:\MyPrograms\RealCoderSolution\ISPDemo\obj\Debug\netcoreapp3.1\ISPDemo.csprojAssemblyReference.cache
+E:\MyPrograms\RealCoderSolution\ISPDemo\obj\Debug\netcoreapp3.1\ISPDemo.AssemblyInfoInputs.cache
+E:\MyPrograms\RealCoderSolution\ISPDemo\obj\Debug\netcoreapp3.1\ISPDemo.AssemblyInfo.cs
+E:\MyPrograms\RealCoderSolution\ISPDemo\obj\Debug\netcoreapp3.1\ISPDemo.csproj.CoreCompileInputs.cache
+E:\MyPrograms\RealCoderSolution\ISPDemo\obj\Debug\netcoreapp3.1\ISPDemo.dll
+E:\MyPrograms\RealCoderSolution\ISPDemo\obj\Debug\netcoreapp3.1\ISPDemo.pdb
+E:\MyPrograms\RealCoderSolution\ISPDemo\obj\Debug\netcoreapp3.1\ISPDemo.genruntimeconfig.cache

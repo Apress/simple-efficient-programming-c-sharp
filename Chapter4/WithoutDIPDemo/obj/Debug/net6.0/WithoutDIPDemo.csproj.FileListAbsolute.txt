@@ -1,0 +1,16 @@
+E:\MyPrograms\RealCoderSolution\WithoutDIPDemo\bin\Debug\net6.0\WithoutDIPDemo.exe
+E:\MyPrograms\RealCoderSolution\WithoutDIPDemo\bin\Debug\net6.0\WithoutDIPDemo.deps.json
+E:\MyPrograms\RealCoderSolution\WithoutDIPDemo\bin\Debug\net6.0\WithoutDIPDemo.runtimeconfig.json
+E:\MyPrograms\RealCoderSolution\WithoutDIPDemo\bin\Debug\net6.0\WithoutDIPDemo.runtimeconfig.dev.json
+E:\MyPrograms\RealCoderSolution\WithoutDIPDemo\bin\Debug\net6.0\WithoutDIPDemo.dll
+E:\MyPrograms\RealCoderSolution\WithoutDIPDemo\bin\Debug\net6.0\ref\WithoutDIPDemo.dll
+E:\MyPrograms\RealCoderSolution\WithoutDIPDemo\bin\Debug\net6.0\WithoutDIPDemo.pdb
+E:\MyPrograms\RealCoderSolution\WithoutDIPDemo\obj\Debug\net6.0\WithoutDIPDemo.csprojAssemblyReference.cache
+E:\MyPrograms\RealCoderSolution\WithoutDIPDemo\obj\Debug\net6.0\WithoutDIPDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\RealCoderSolution\WithoutDIPDemo\obj\Debug\net6.0\WithoutDIPDemo.AssemblyInfoInputs.cache
+E:\MyPrograms\RealCoderSolution\WithoutDIPDemo\obj\Debug\net6.0\WithoutDIPDemo.AssemblyInfo.cs
+E:\MyPrograms\RealCoderSolution\WithoutDIPDemo\obj\Debug\net6.0\WithoutDIPDemo.csproj.CoreCompileInputs.cache
+E:\MyPrograms\RealCoderSolution\WithoutDIPDemo\obj\Debug\net6.0\WithoutDIPDemo.dll
+E:\MyPrograms\RealCoderSolution\WithoutDIPDemo\obj\Debug\net6.0\ref\WithoutDIPDemo.dll
+E:\MyPrograms\RealCoderSolution\WithoutDIPDemo\obj\Debug\net6.0\WithoutDIPDemo.pdb
+E:\MyPrograms\RealCoderSolution\WithoutDIPDemo\obj\Debug\net6.0\WithoutDIPDemo.genruntimeconfig.cache

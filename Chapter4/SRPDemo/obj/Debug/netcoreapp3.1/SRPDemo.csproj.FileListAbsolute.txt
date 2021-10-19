@@ -1,0 +1,12 @@
+E:\MyPrograms\RealCoderSolution\SRPDemo\bin\Debug\netcoreapp3.1\SRPDemo.exe
+E:\MyPrograms\RealCoderSolution\SRPDemo\bin\Debug\netcoreapp3.1\SRPDemo.deps.json
+E:\MyPrograms\RealCoderSolution\SRPDemo\bin\Debug\netcoreapp3.1\SRPDemo.runtimeconfig.json
+E:\MyPrograms\RealCoderSolution\SRPDemo\bin\Debug\netcoreapp3.1\SRPDemo.runtimeconfig.dev.json
+E:\MyPrograms\RealCoderSolution\SRPDemo\bin\Debug\netcoreapp3.1\SRPDemo.dll
+E:\MyPrograms\RealCoderSolution\SRPDemo\bin\Debug\netcoreapp3.1\SRPDemo.pdb
+E:\MyPrograms\RealCoderSolution\SRPDemo\obj\Debug\netcoreapp3.1\SRPDemo.AssemblyInfoInputs.cache
+E:\MyPrograms\RealCoderSolution\SRPDemo\obj\Debug\netcoreapp3.1\SRPDemo.AssemblyInfo.cs
+E:\MyPrograms\RealCoderSolution\SRPDemo\obj\Debug\netcoreapp3.1\SRPDemo.csproj.CoreCompileInputs.cache
+E:\MyPrograms\RealCoderSolution\SRPDemo\obj\Debug\netcoreapp3.1\SRPDemo.dll
+E:\MyPrograms\RealCoderSolution\SRPDemo\obj\Debug\netcoreapp3.1\SRPDemo.pdb
+E:\MyPrograms\RealCoderSolution\SRPDemo\obj\Debug\netcoreapp3.1\SRPDemo.genruntimeconfig.cache

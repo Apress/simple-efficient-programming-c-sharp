@@ -1,0 +1,12 @@
+E:\MyPrograms\RealCoderSolution\FactoryMethodDemo2\bin\Debug\netcoreapp3.1\FactoryMethodDemo2.exe
+E:\MyPrograms\RealCoderSolution\FactoryMethodDemo2\bin\Debug\netcoreapp3.1\FactoryMethodDemo2.deps.json
+E:\MyPrograms\RealCoderSolution\FactoryMethodDemo2\bin\Debug\netcoreapp3.1\FactoryMethodDemo2.runtimeconfig.json
+E:\MyPrograms\RealCoderSolution\FactoryMethodDemo2\bin\Debug\netcoreapp3.1\FactoryMethodDemo2.runtimeconfig.dev.json
+E:\MyPrograms\RealCoderSolution\FactoryMethodDemo2\bin\Debug\netcoreapp3.1\FactoryMethodDemo2.dll
+E:\MyPrograms\RealCoderSolution\FactoryMethodDemo2\bin\Debug\netcoreapp3.1\FactoryMethodDemo2.pdb
+E:\MyPrograms\RealCoderSolution\FactoryMethodDemo2\obj\Debug\netcoreapp3.1\FactoryMethodDemo2.AssemblyInfoInputs.cache
+E:\MyPrograms\RealCoderSolution\FactoryMethodDemo2\obj\Debug\netcoreapp3.1\FactoryMethodDemo2.AssemblyInfo.cs
+E:\MyPrograms\RealCoderSolution\FactoryMethodDemo2\obj\Debug\netcoreapp3.1\FactoryMethodDemo2.csproj.CoreCompileInputs.cache
+E:\MyPrograms\RealCoderSolution\FactoryMethodDemo2\obj\Debug\netcoreapp3.1\FactoryMethodDemo2.dll
+E:\MyPrograms\RealCoderSolution\FactoryMethodDemo2\obj\Debug\netcoreapp3.1\FactoryMethodDemo2.pdb
+E:\MyPrograms\RealCoderSolution\FactoryMethodDemo2\obj\Debug\netcoreapp3.1\FactoryMethodDemo2.genruntimeconfig.cache

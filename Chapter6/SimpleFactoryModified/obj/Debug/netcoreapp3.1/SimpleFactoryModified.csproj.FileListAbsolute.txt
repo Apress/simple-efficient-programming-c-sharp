@@ -1,0 +1,13 @@
+E:\MyPrograms\RealCoderSolution\SimpleFactoryModified\bin\Debug\netcoreapp3.1\SimpleFactoryModified.exe
+E:\MyPrograms\RealCoderSolution\SimpleFactoryModified\bin\Debug\netcoreapp3.1\SimpleFactoryModified.deps.json
+E:\MyPrograms\RealCoderSolution\SimpleFactoryModified\bin\Debug\netcoreapp3.1\SimpleFactoryModified.runtimeconfig.json
+E:\MyPrograms\RealCoderSolution\SimpleFactoryModified\bin\Debug\netcoreapp3.1\SimpleFactoryModified.runtimeconfig.dev.json
+E:\MyPrograms\RealCoderSolution\SimpleFactoryModified\bin\Debug\netcoreapp3.1\SimpleFactoryModified.dll
+E:\MyPrograms\RealCoderSolution\SimpleFactoryModified\bin\Debug\netcoreapp3.1\SimpleFactoryModified.pdb
+E:\MyPrograms\RealCoderSolution\SimpleFactoryModified\obj\Debug\netcoreapp3.1\SimpleFactoryModified.AssemblyInfoInputs.cache
+E:\MyPrograms\RealCoderSolution\SimpleFactoryModified\obj\Debug\netcoreapp3.1\SimpleFactoryModified.AssemblyInfo.cs
+E:\MyPrograms\RealCoderSolution\SimpleFactoryModified\obj\Debug\netcoreapp3.1\SimpleFactoryModified.csproj.CoreCompileInputs.cache
+E:\MyPrograms\RealCoderSolution\SimpleFactoryModified\obj\Debug\netcoreapp3.1\SimpleFactoryModified.dll
+E:\MyPrograms\RealCoderSolution\SimpleFactoryModified\obj\Debug\netcoreapp3.1\SimpleFactoryModified.pdb
+E:\MyPrograms\RealCoderSolution\SimpleFactoryModified\obj\Debug\netcoreapp3.1\SimpleFactoryModified.genruntimeconfig.cache
+E:\MyPrograms\RealCoderSolution\SimpleFactoryModified\obj\Debug\netcoreapp3.1\SimpleFactoryModified.csprojAssemblyReference.cache

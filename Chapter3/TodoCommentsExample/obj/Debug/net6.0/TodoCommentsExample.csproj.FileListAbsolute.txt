@@ -1,0 +1,16 @@
+E:\MyPrograms\RealCoderSolution\TodoCommentsExample\bin\Debug\net6.0\TodoCommentsExample.exe
+E:\MyPrograms\RealCoderSolution\TodoCommentsExample\bin\Debug\net6.0\TodoCommentsExample.deps.json
+E:\MyPrograms\RealCoderSolution\TodoCommentsExample\bin\Debug\net6.0\TodoCommentsExample.runtimeconfig.json
+E:\MyPrograms\RealCoderSolution\TodoCommentsExample\bin\Debug\net6.0\TodoCommentsExample.runtimeconfig.dev.json
+E:\MyPrograms\RealCoderSolution\TodoCommentsExample\bin\Debug\net6.0\TodoCommentsExample.dll
+E:\MyPrograms\RealCoderSolution\TodoCommentsExample\bin\Debug\net6.0\ref\TodoCommentsExample.dll
+E:\MyPrograms\RealCoderSolution\TodoCommentsExample\bin\Debug\net6.0\TodoCommentsExample.pdb
+E:\MyPrograms\RealCoderSolution\TodoCommentsExample\obj\Debug\net6.0\TodoCommentsExample.csprojAssemblyReference.cache
+E:\MyPrograms\RealCoderSolution\TodoCommentsExample\obj\Debug\net6.0\TodoCommentsExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\RealCoderSolution\TodoCommentsExample\obj\Debug\net6.0\TodoCommentsExample.AssemblyInfoInputs.cache
+E:\MyPrograms\RealCoderSolution\TodoCommentsExample\obj\Debug\net6.0\TodoCommentsExample.AssemblyInfo.cs
+E:\MyPrograms\RealCoderSolution\TodoCommentsExample\obj\Debug\net6.0\TodoCommentsExample.csproj.CoreCompileInputs.cache
+E:\MyPrograms\RealCoderSolution\TodoCommentsExample\obj\Debug\net6.0\TodoCommentsExample.dll
+E:\MyPrograms\RealCoderSolution\TodoCommentsExample\obj\Debug\net6.0\ref\TodoCommentsExample.dll
+E:\MyPrograms\RealCoderSolution\TodoCommentsExample\obj\Debug\net6.0\TodoCommentsExample.pdb
+E:\MyPrograms\RealCoderSolution\TodoCommentsExample\obj\Debug\net6.0\TodoCommentsExample.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\MyPrograms\RealCoderSolution\UsingFacade\bin\Debug\netcoreapp3.1\UsingFacade.exe
+E:\MyPrograms\RealCoderSolution\UsingFacade\bin\Debug\netcoreapp3.1\UsingFacade.deps.json
+E:\MyPrograms\RealCoderSolution\UsingFacade\bin\Debug\netcoreapp3.1\UsingFacade.runtimeconfig.json
+E:\MyPrograms\RealCoderSolution\UsingFacade\bin\Debug\netcoreapp3.1\UsingFacade.runtimeconfig.dev.json
+E:\MyPrograms\RealCoderSolution\UsingFacade\bin\Debug\netcoreapp3.1\UsingFacade.dll
+E:\MyPrograms\RealCoderSolution\UsingFacade\bin\Debug\netcoreapp3.1\UsingFacade.pdb
+E:\MyPrograms\RealCoderSolution\UsingFacade\obj\Debug\netcoreapp3.1\UsingFacade.AssemblyInfoInputs.cache
+E:\MyPrograms\RealCoderSolution\UsingFacade\obj\Debug\netcoreapp3.1\UsingFacade.AssemblyInfo.cs
+E:\MyPrograms\RealCoderSolution\UsingFacade\obj\Debug\netcoreapp3.1\UsingFacade.csproj.CoreCompileInputs.cache
+E:\MyPrograms\RealCoderSolution\UsingFacade\obj\Debug\netcoreapp3.1\UsingFacade.dll
+E:\MyPrograms\RealCoderSolution\UsingFacade\obj\Debug\netcoreapp3.1\UsingFacade.pdb
+E:\MyPrograms\RealCoderSolution\UsingFacade\obj\Debug\netcoreapp3.1\UsingFacade.genruntimeconfig.cache
+E:\MyPrograms\RealCoderSolution\UsingFacade\obj\Debug\netcoreapp3.1\UsingFacade.csprojAssemblyReference.cache

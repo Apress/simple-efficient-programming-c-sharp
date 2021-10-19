@@ -1,0 +1,26 @@
+C:\Users\Vaskaran Sarcar\source\repos\RealCoderSolution\Demonstration1\bin\Debug\netcoreapp3.1\Demonstration1.exe
+C:\Users\Vaskaran Sarcar\source\repos\RealCoderSolution\Demonstration1\bin\Debug\netcoreapp3.1\Demonstration1.deps.json
+C:\Users\Vaskaran Sarcar\source\repos\RealCoderSolution\Demonstration1\bin\Debug\netcoreapp3.1\Demonstration1.runtimeconfig.json
+C:\Users\Vaskaran Sarcar\source\repos\RealCoderSolution\Demonstration1\bin\Debug\netcoreapp3.1\Demonstration1.runtimeconfig.dev.json
+C:\Users\Vaskaran Sarcar\source\repos\RealCoderSolution\Demonstration1\bin\Debug\netcoreapp3.1\Demonstration1.dll
+C:\Users\Vaskaran Sarcar\source\repos\RealCoderSolution\Demonstration1\bin\Debug\netcoreapp3.1\Demonstration1.pdb
+C:\Users\Vaskaran Sarcar\source\repos\RealCoderSolution\Demonstration1\obj\Debug\netcoreapp3.1\Demonstration1.csprojAssemblyReference.cache
+C:\Users\Vaskaran Sarcar\source\repos\RealCoderSolution\Demonstration1\obj\Debug\netcoreapp3.1\Demonstration1.AssemblyInfoInputs.cache
+C:\Users\Vaskaran Sarcar\source\repos\RealCoderSolution\Demonstration1\obj\Debug\netcoreapp3.1\Demonstration1.AssemblyInfo.cs
+C:\Users\Vaskaran Sarcar\source\repos\RealCoderSolution\Demonstration1\obj\Debug\netcoreapp3.1\Demonstration1.csproj.CoreCompileInputs.cache
+C:\Users\Vaskaran Sarcar\source\repos\RealCoderSolution\Demonstration1\obj\Debug\netcoreapp3.1\Demonstration1.dll
+C:\Users\Vaskaran Sarcar\source\repos\RealCoderSolution\Demonstration1\obj\Debug\netcoreapp3.1\Demonstration1.pdb
+C:\Users\Vaskaran Sarcar\source\repos\RealCoderSolution\Demonstration1\obj\Debug\netcoreapp3.1\Demonstration1.genruntimeconfig.cache
+E:\MyPrograms\RealCoderSolution\Demonstration1\bin\Debug\netcoreapp3.1\Demonstration1.exe
+E:\MyPrograms\RealCoderSolution\Demonstration1\bin\Debug\netcoreapp3.1\Demonstration1.deps.json
+E:\MyPrograms\RealCoderSolution\Demonstration1\bin\Debug\netcoreapp3.1\Demonstration1.runtimeconfig.json
+E:\MyPrograms\RealCoderSolution\Demonstration1\bin\Debug\netcoreapp3.1\Demonstration1.runtimeconfig.dev.json
+E:\MyPrograms\RealCoderSolution\Demonstration1\bin\Debug\netcoreapp3.1\Demonstration1.dll
+E:\MyPrograms\RealCoderSolution\Demonstration1\bin\Debug\netcoreapp3.1\Demonstration1.pdb
+E:\MyPrograms\RealCoderSolution\Demonstration1\obj\Debug\netcoreapp3.1\Demonstration1.csprojAssemblyReference.cache
+E:\MyPrograms\RealCoderSolution\Demonstration1\obj\Debug\netcoreapp3.1\Demonstration1.AssemblyInfoInputs.cache
+E:\MyPrograms\RealCoderSolution\Demonstration1\obj\Debug\netcoreapp3.1\Demonstration1.AssemblyInfo.cs
+E:\MyPrograms\RealCoderSolution\Demonstration1\obj\Debug\netcoreapp3.1\Demonstration1.csproj.CoreCompileInputs.cache
+E:\MyPrograms\RealCoderSolution\Demonstration1\obj\Debug\netcoreapp3.1\Demonstration1.dll
+E:\MyPrograms\RealCoderSolution\Demonstration1\obj\Debug\netcoreapp3.1\Demonstration1.pdb
+E:\MyPrograms\RealCoderSolution\Demonstration1\obj\Debug\netcoreapp3.1\Demonstration1.genruntimeconfig.cache

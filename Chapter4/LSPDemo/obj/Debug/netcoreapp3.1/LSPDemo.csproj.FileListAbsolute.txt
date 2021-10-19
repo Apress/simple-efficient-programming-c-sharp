@@ -1,0 +1,12 @@
+E:\MyPrograms\RealCoderSolution\LSPDemo\bin\Debug\netcoreapp3.1\LSPDemo.exe
+E:\MyPrograms\RealCoderSolution\LSPDemo\bin\Debug\netcoreapp3.1\LSPDemo.deps.json
+E:\MyPrograms\RealCoderSolution\LSPDemo\bin\Debug\netcoreapp3.1\LSPDemo.runtimeconfig.json
+E:\MyPrograms\RealCoderSolution\LSPDemo\bin\Debug\netcoreapp3.1\LSPDemo.runtimeconfig.dev.json
+E:\MyPrograms\RealCoderSolution\LSPDemo\bin\Debug\netcoreapp3.1\LSPDemo.dll
+E:\MyPrograms\RealCoderSolution\LSPDemo\bin\Debug\netcoreapp3.1\LSPDemo.pdb
+E:\MyPrograms\RealCoderSolution\LSPDemo\obj\Debug\netcoreapp3.1\LSPDemo.AssemblyInfoInputs.cache
+E:\MyPrograms\RealCoderSolution\LSPDemo\obj\Debug\netcoreapp3.1\LSPDemo.AssemblyInfo.cs
+E:\MyPrograms\RealCoderSolution\LSPDemo\obj\Debug\netcoreapp3.1\LSPDemo.csproj.CoreCompileInputs.cache
+E:\MyPrograms\RealCoderSolution\LSPDemo\obj\Debug\netcoreapp3.1\LSPDemo.dll
+E:\MyPrograms\RealCoderSolution\LSPDemo\obj\Debug\netcoreapp3.1\LSPDemo.pdb
+E:\MyPrograms\RealCoderSolution\LSPDemo\obj\Debug\netcoreapp3.1\LSPDemo.genruntimeconfig.cache

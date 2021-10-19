@@ -1,0 +1,16 @@
+E:\MyPrograms\RealCoderSolution\VehicleDemo\bin\Debug\net5.0\VehicleDemo.exe
+E:\MyPrograms\RealCoderSolution\VehicleDemo\bin\Debug\net5.0\VehicleDemo.deps.json
+E:\MyPrograms\RealCoderSolution\VehicleDemo\bin\Debug\net5.0\VehicleDemo.runtimeconfig.json
+E:\MyPrograms\RealCoderSolution\VehicleDemo\bin\Debug\net5.0\VehicleDemo.runtimeconfig.dev.json
+E:\MyPrograms\RealCoderSolution\VehicleDemo\bin\Debug\net5.0\VehicleDemo.dll
+E:\MyPrograms\RealCoderSolution\VehicleDemo\bin\Debug\net5.0\ref\VehicleDemo.dll
+E:\MyPrograms\RealCoderSolution\VehicleDemo\bin\Debug\net5.0\VehicleDemo.pdb
+E:\MyPrograms\RealCoderSolution\VehicleDemo\obj\Debug\net5.0\VehicleDemo.csprojAssemblyReference.cache
+E:\MyPrograms\RealCoderSolution\VehicleDemo\obj\Debug\net5.0\VehicleDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\RealCoderSolution\VehicleDemo\obj\Debug\net5.0\VehicleDemo.AssemblyInfoInputs.cache
+E:\MyPrograms\RealCoderSolution\VehicleDemo\obj\Debug\net5.0\VehicleDemo.AssemblyInfo.cs
+E:\MyPrograms\RealCoderSolution\VehicleDemo\obj\Debug\net5.0\VehicleDemo.csproj.CoreCompileInputs.cache
+E:\MyPrograms\RealCoderSolution\VehicleDemo\obj\Debug\net5.0\VehicleDemo.dll
+E:\MyPrograms\RealCoderSolution\VehicleDemo\obj\Debug\net5.0\ref\VehicleDemo.dll
+E:\MyPrograms\RealCoderSolution\VehicleDemo\obj\Debug\net5.0\VehicleDemo.pdb
+E:\MyPrograms\RealCoderSolution\VehicleDemo\obj\Debug\net5.0\VehicleDemo.genruntimeconfig.cache

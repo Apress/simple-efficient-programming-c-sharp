@@ -1,0 +1,13 @@
+E:\MyPrograms\RealCoderSolution\DIPDemo\bin\Debug\netcoreapp3.1\DIPDemo.exe
+E:\MyPrograms\RealCoderSolution\DIPDemo\bin\Debug\netcoreapp3.1\DIPDemo.deps.json
+E:\MyPrograms\RealCoderSolution\DIPDemo\bin\Debug\netcoreapp3.1\DIPDemo.runtimeconfig.json
+E:\MyPrograms\RealCoderSolution\DIPDemo\bin\Debug\netcoreapp3.1\DIPDemo.runtimeconfig.dev.json
+E:\MyPrograms\RealCoderSolution\DIPDemo\bin\Debug\netcoreapp3.1\DIPDemo.dll
+E:\MyPrograms\RealCoderSolution\DIPDemo\bin\Debug\netcoreapp3.1\DIPDemo.pdb
+E:\MyPrograms\RealCoderSolution\DIPDemo\obj\Debug\netcoreapp3.1\DIPDemo.csprojAssemblyReference.cache
+E:\MyPrograms\RealCoderSolution\DIPDemo\obj\Debug\netcoreapp3.1\DIPDemo.AssemblyInfoInputs.cache
+E:\MyPrograms\RealCoderSolution\DIPDemo\obj\Debug\netcoreapp3.1\DIPDemo.AssemblyInfo.cs
+E:\MyPrograms\RealCoderSolution\DIPDemo\obj\Debug\netcoreapp3.1\DIPDemo.csproj.CoreCompileInputs.cache
+E:\MyPrograms\RealCoderSolution\DIPDemo\obj\Debug\netcoreapp3.1\DIPDemo.dll
+E:\MyPrograms\RealCoderSolution\DIPDemo\obj\Debug\netcoreapp3.1\DIPDemo.pdb
+E:\MyPrograms\RealCoderSolution\DIPDemo\obj\Debug\netcoreapp3.1\DIPDemo.genruntimeconfig.cache

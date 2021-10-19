@@ -1,0 +1,12 @@
+E:\MyPrograms\RealCoderSolution\DRYDemo\bin\Debug\netcoreapp3.1\DRYDemo.exe
+E:\MyPrograms\RealCoderSolution\DRYDemo\bin\Debug\netcoreapp3.1\DRYDemo.deps.json
+E:\MyPrograms\RealCoderSolution\DRYDemo\bin\Debug\netcoreapp3.1\DRYDemo.runtimeconfig.json
+E:\MyPrograms\RealCoderSolution\DRYDemo\bin\Debug\netcoreapp3.1\DRYDemo.runtimeconfig.dev.json
+E:\MyPrograms\RealCoderSolution\DRYDemo\bin\Debug\netcoreapp3.1\DRYDemo.dll
+E:\MyPrograms\RealCoderSolution\DRYDemo\bin\Debug\netcoreapp3.1\DRYDemo.pdb
+E:\MyPrograms\RealCoderSolution\DRYDemo\obj\Debug\netcoreapp3.1\DRYDemo.AssemblyInfoInputs.cache
+E:\MyPrograms\RealCoderSolution\DRYDemo\obj\Debug\netcoreapp3.1\DRYDemo.AssemblyInfo.cs
+E:\MyPrograms\RealCoderSolution\DRYDemo\obj\Debug\netcoreapp3.1\DRYDemo.csproj.CoreCompileInputs.cache
+E:\MyPrograms\RealCoderSolution\DRYDemo\obj\Debug\netcoreapp3.1\DRYDemo.dll
+E:\MyPrograms\RealCoderSolution\DRYDemo\obj\Debug\netcoreapp3.1\DRYDemo.pdb
+E:\MyPrograms\RealCoderSolution\DRYDemo\obj\Debug\netcoreapp3.1\DRYDemo.genruntimeconfig.cache

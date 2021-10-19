@@ -1,0 +1,16 @@
+E:\MyPrograms\MemoryManagementInCSharp\DisposeExample\bin\Debug\net6.0\DisposeExample.exe
+E:\MyPrograms\MemoryManagementInCSharp\DisposeExample\bin\Debug\net6.0\DisposeExample.deps.json
+E:\MyPrograms\MemoryManagementInCSharp\DisposeExample\bin\Debug\net6.0\DisposeExample.runtimeconfig.json
+E:\MyPrograms\MemoryManagementInCSharp\DisposeExample\bin\Debug\net6.0\DisposeExample.runtimeconfig.dev.json
+E:\MyPrograms\MemoryManagementInCSharp\DisposeExample\bin\Debug\net6.0\DisposeExample.dll
+E:\MyPrograms\MemoryManagementInCSharp\DisposeExample\bin\Debug\net6.0\ref\DisposeExample.dll
+E:\MyPrograms\MemoryManagementInCSharp\DisposeExample\bin\Debug\net6.0\DisposeExample.pdb
+E:\MyPrograms\MemoryManagementInCSharp\DisposeExample\obj\Debug\net6.0\DisposeExample.csprojAssemblyReference.cache
+E:\MyPrograms\MemoryManagementInCSharp\DisposeExample\obj\Debug\net6.0\DisposeExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\MemoryManagementInCSharp\DisposeExample\obj\Debug\net6.0\DisposeExample.AssemblyInfoInputs.cache
+E:\MyPrograms\MemoryManagementInCSharp\DisposeExample\obj\Debug\net6.0\DisposeExample.AssemblyInfo.cs
+E:\MyPrograms\MemoryManagementInCSharp\DisposeExample\obj\Debug\net6.0\DisposeExample.csproj.CoreCompileInputs.cache
+E:\MyPrograms\MemoryManagementInCSharp\DisposeExample\obj\Debug\net6.0\DisposeExample.dll
+E:\MyPrograms\MemoryManagementInCSharp\DisposeExample\obj\Debug\net6.0\ref\DisposeExample.dll
+E:\MyPrograms\MemoryManagementInCSharp\DisposeExample\obj\Debug\net6.0\DisposeExample.pdb
+E:\MyPrograms\MemoryManagementInCSharp\DisposeExample\obj\Debug\net6.0\DisposeExample.genruntimeconfig.cache

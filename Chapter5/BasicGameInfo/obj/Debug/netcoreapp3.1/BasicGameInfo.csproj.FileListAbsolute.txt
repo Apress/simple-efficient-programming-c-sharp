@@ -1,0 +1,9 @@
+E:\MyPrograms\RealCoderSolution\BasicGameInfo\bin\Debug\netcoreapp3.1\BasicGameInfo.deps.json
+E:\MyPrograms\RealCoderSolution\BasicGameInfo\bin\Debug\netcoreapp3.1\BasicGameInfo.dll
+E:\MyPrograms\RealCoderSolution\BasicGameInfo\bin\Debug\netcoreapp3.1\BasicGameInfo.pdb
+E:\MyPrograms\RealCoderSolution\BasicGameInfo\obj\Debug\netcoreapp3.1\BasicGameInfo.AssemblyInfoInputs.cache
+E:\MyPrograms\RealCoderSolution\BasicGameInfo\obj\Debug\netcoreapp3.1\BasicGameInfo.AssemblyInfo.cs
+E:\MyPrograms\RealCoderSolution\BasicGameInfo\obj\Debug\netcoreapp3.1\BasicGameInfo.csproj.CoreCompileInputs.cache
+E:\MyPrograms\RealCoderSolution\BasicGameInfo\obj\Debug\netcoreapp3.1\BasicGameInfo.dll
+E:\MyPrograms\RealCoderSolution\BasicGameInfo\obj\Debug\netcoreapp3.1\BasicGameInfo.pdb
+E:\MyPrograms\RealCoderSolution\BasicGameInfo\obj\Debug\netcoreapp3.1\BasicGameInfo.csprojAssemblyReference.cache
